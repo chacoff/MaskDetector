@@ -10,4 +10,4 @@ train.py
 **Results**
 
 
-<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/covid_test8.jpg' width='320'>
+<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/covid_test8.jpg' width='420'>
