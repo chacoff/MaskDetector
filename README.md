@@ -20,11 +20,13 @@ pip install -r requirements.txt
 $ git clone https://github.com/chacoff/MaskDetector
 ```
 
+
 **dataset**
 
 you will have to uncompress everything from the *dataset/* folder. You will find there about 8 compressed files which correspond to the images and another compressed file corresponding the annotations already in darknet format. 
 
 I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a tool you can find among my other repositories: https://github.com/chacoff/VoTT-CSV-to-Darknet-Format
+
 
 
 **training**
@@ -39,10 +41,12 @@ or
 $ python train.py --img 640 --batch 16 --epochs 21 --data dataset/vott-csv-export/mask.yaml --weights yolov5x.pt --nosave --cache
 ```
 
+
 **training results**
 
 <image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/results.png' width='720'>
-  
+
+
 **tests**
 
 <image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/covid_test8.jpg' width='420'>
