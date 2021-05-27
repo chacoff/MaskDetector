@@ -39,6 +39,11 @@ or
 $ python train.py --img 640 --batch 16 --epochs 21 --data dataset/vott-csv-export/mask.yaml --weights yolov5x.pt --nosave --cache
 ```
 
-**Results**
+**training results**
+
+<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/results.png' width='510'>
+
+**tests**
 
 <image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/covid_test8.jpg' width='420'>
+  
