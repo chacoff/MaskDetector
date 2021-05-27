@@ -20,8 +20,11 @@ pip install -r requirements.txt
 $ git clone https://github.com/chacoff/MaskDetector
 ```
 
+**dataset**
+you will have to uncompress everything from the dataset folder/, you will have there about 8 compressed files which corresponds to the images and another compressed file corresonding the annotations already in darknet format. I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a toold you can find among my other repositories.
 
-**Train**
+
+**training**
 ```
 $ train.py 
 ```
