@@ -2,14 +2,13 @@
 
 The original repository: https://github.com/ultralytics/yolov5
 
-**Creating the enviroment**
-**Conda**
+**Conda enviroment**
 ```
 conda activate <env>
 conda install pip
 pip freeze > requirements_ingfisica.txt
 ```
-**PIP**
+**PIP enviroment**
 ```
 python3 -m venv env
 source env/bin/activate
