@@ -1,0 +1,1483 @@
+C:\Coding\6_Yolov5\dataset\covid_1.jpg 163,343,323,615,0 809,308,1005,542,0 1164,185,1350,420,0 313,181,480,376,1
+C:\Coding\6_Yolov5\dataset\covid_10.jpg 372,94,451,186,0 569,43,678,153,0 300,135,347,221,1 173,200,227,253,1 116,172,161,228,0 57,182,92,229,0
+C:\Coding\6_Yolov5\dataset\covid_11.jpg 67,174,151,319,1 213,12,320,150,1 389,30,468,140,1 530,20,635,133,1 694,19,808,153,1 839,7,952,152,1 845,186,943,318,1 694,186,798,314,1 215,179,315,315,1 382,191,468,300,1 539,205,619,302,1 53,340,144,456,1 218,333,320,467,1 385,338,471,457,1 526,343,636,449,1 695,340,814,470,1 839,337,949,474,1 838,481,948,629,1 689,500,801,629,1 522,499,634,609,1 383,499,471,616,1 209,488,319,626,1 43,498,150,620,1 55,660,152,783,1 216,657,321,782,1 382,663,467,778,1 529,648,631,781,1 693,659,784,782,1 841,653,943,786,1 831,815,953,945,1 682,813,801,945,1 520,809,644,940,1 376,812,480,941,1 209,817,329,945,1 47,818,166,940,1 57,971,157,1103,1 225,975,320,1104,1 378,968,477,1104,1 533,967,633,1102,1 687,969,781,1104,1 843,966,940,1104,1
+C:\Coding\6_Yolov5\dataset\covid_12.jpg 109,40,344,390,0
+C:\Coding\6_Yolov5\dataset\covid_13.jpg 37,66,259,331,0 364,62,580,341,1
+C:\Coding\6_Yolov5\dataset\covid_14.jpg 1,194,57,273,0 79,192,128,274,0 211,189,269,267,0 279,150,333,239,0 469,125,528,219,0 439,259,526,350,0 312,267,379,356,0 200,314,254,360,0 149,306,197,360,0 8,326,63,360,0 416,8,479,84,0 295,32,369,104,0 188,45,246,106,0 82,63,128,139,0 2,96,62,162,0
+C:\Coding\6_Yolov5\dataset\covid_15.jpg 58,22,425,419,1 657,15,1049,433,0 732,612,1074,993,0 102,609,443,991,0
+C:\Coding\6_Yolov5\dataset\covid_16.jpg 52,72,275,359,0 401,103,637,342,0 744,94,978,357,0
+C:\Coding\6_Yolov5\dataset\covid_17.jpg 19,0,280,247,1 363,0,604,267,0
+C:\Coding\6_Yolov5\dataset\covid_18.jpg 299,47,527,319,1 795,47,1029,320,0 813,419,1008,668,0 290,421,483,663,1
+C:\Coding\6_Yolov5\dataset\covid_19.jpg 502,162,564,258,1 629,162,704,270,1 783,175,857,280,1 939,154,1020,276,1 1072,168,1163,271,1 1087,310,1172,412,1 1080,13,1159,113,1 930,8,1003,112,1 774,21,852,121,1 654,33,716,112,1 491,32,556,120,1 332,26,401,119,1 191,19,261,118,1 36,24,103,115,1 328,173,417,276,1 186,172,251,272,1 33,173,113,268,1 937,317,1028,433,1 792,330,858,414,1 629,320,706,410,1 481,312,577,427,1 322,323,414,431,1 174,318,271,432,1 36,323,126,416,1 1074,466,1169,586,1 936,461,1022,570,1 769,466,877,576,1 631,468,733,581,1 471,468,570,574,1 320,470,406,583,1 177,467,261,574,1 29,460,115,574,1 1092,613,1163,711,1 932,616,1022,730,1 775,622,863,715,1 623,608,713,719,1 477,617,559,719,1 314,617,409,738,1 174,626,265,734,1 25,613,122,733,1 175,767,266,882,1 330,766,421,880,1 34,777,119,874,1 482,768,556,865,1 639,764,722,861,1 797,761,857,859,1 919,764,1013,874,1 1077,770,1173,882,1
+C:\Coding\6_Yolov5\dataset\covid_2.jpg 75,42,171,186,1 318,41,415,187,0 558,47,658,182,0 559,287,657,422,0 316,287,414,423,0 76,290,171,427,0
+C:\Coding\6_Yolov5\dataset\covid_20.jpg 102,71,319,378,1 527,85,768,381,1 966,85,1174,366,1 986,541,1221,830,1 530,495,753,831,1 130,500,343,821,1 83,967,334,1267,1 556,947,798,1260,1 1017,980,1221,1258,1
+C:\Coding\6_Yolov5\dataset\covid_27.jpg 122,76,171,159,0 273,120,331,211,0 500,5,604,141,0 410,82,473,164,0 231,43,302,121,0
+C:\Coding\6_Yolov5\dataset\covid_9.jpg 156,272,263,390,0 555,310,673,458,0 450,168,522,278,0 295,176,417,305,0 578,242,662,287,0 30,259,117,352,0 65,57,163,180,0 404,38,462,114,0 677,74,745,167,0 521,156,569,232,0 288,112,339,160,0
+C:\Coding\6_Yolov5\dataset\covid_8.jpg 125,100,361,392,0 900,109,1135,453,0 508,196,683,381,0
+C:\Coding\6_Yolov5\dataset\covid_7.jpg 299,526,423,700,1 536,525,655,687,1 33,259,191,466,1 304,274,425,451,1 533,289,680,438,1 782,276,957,473,1 1009,261,1155,476,1 1011,507,1155,717,1 782,514,949,715,1 41,514,190,712,1 51,34,181,228,1 304,40,421,214,1 538,74,655,209,1 787,54,934,235,1 1013,29,1152,237,1
+C:\Coding\6_Yolov5\dataset\covid_6.jpg 62,410,157,525,1 270,444,351,550,1 450,415,544,544,1 661,436,733,547,1 849,451,931,542,1 60,803,161,921,1 266,814,343,927,1 451,825,550,937,1 657,823,734,938,1 842,808,937,935,1 855,623,929,738,1 644,633,741,749,1 72,618,147,732,1 260,615,349,766,1 451,641,541,740,1 850,237,936,351,1 649,245,739,362,1 456,244,547,346,1 267,238,349,350,1 70,231,151,343,1 842,37,940,158,1 658,50,741,160,1 457,57,544,164,1 266,41,346,142,1 70,61,156,156,1
+C:\Coding\6_Yolov5\dataset\covid_5.jpg 27,178,229,446,0 241,180,423,436,0
+C:\Coding\6_Yolov5\dataset\covid_26.jpg 88,35,354,407,0 501,39,783,413,0
+C:\Coding\6_Yolov5\dataset\covid_25.jpg 348,206,505,366,1 564,154,696,291,0
+C:\Coding\6_Yolov5\dataset\covid_24.jpg 234,44,436,347,0 846,56,1007,290,0
+C:\Coding\6_Yolov5\dataset\covid_23.jpg 23,85,57,132,0 131,74,164,129,0 242,69,262,96,0 92,72,122,109,0 202,64,218,85,0 174,68,192,92,0 222,56,235,73,1 77,59,91,80,1 157,52,170,68,1 131,55,141,68,0 56,65,69,84,0
+C:\Coding\6_Yolov5\dataset\covid_4.jpg 48,24,173,181,0 332,14,468,185,0 584,21,718,187,0 68,295,197,456,0 331,291,461,458,0 597,279,717,439,0 600,557,726,709,0 330,555,466,731,0 57,549,195,723,0
+C:\Coding\6_Yolov5\dataset\covid_3.jpg 17,89,219,333,0 291,85,479,328,0 576,115,789,400,0
+C:\Coding\6_Yolov5\dataset\covid_28.jpg 0,153,510,685,0 665,11,1052,275,0 664,611,1052,1058,0
+C:\Coding\6_Yolov5\dataset\covid_22.jpg 496,361,658,547,0 815,181,929,353,0 931,187,990,309,0 922,63,1003,166,0 691,63,780,146,0 789,0,858,66,0 555,0,623,101,0 485,45,563,125,0 319,142,406,224,0 371,276,495,418,0 91,311,260,480,0 115,163,230,283,0 8,113,100,200,0 196,50,279,132,0 396,85,472,174,0 269,18,332,76,0 101,103,160,177,0 602,193,647,260,0 493,162,595,283,0 194,0,243,26,0 467,0,524,24,0 0,292,22,377,0 8,54,77,103,0
+C:\Coding\6_Yolov5\dataset\covid_21.jpg 7,326,124,451,0 203,306,306,423,0 404,247,499,365,0 552,248,656,383,0 669,216,749,321,0 622,105,710,207,0 486,115,536,188,0 698,6,749,77,0 411,45,459,98,0 592,1,620,48,0 348,160,440,262,0 294,241,375,361,0 169,233,264,350,0 125,256,168,349,0 113,206,186,294,0 6,150,94,247,0 86,121,161,207,0 180,130,264,210,0 284,87,355,165,0 148,2,212,59,0 5,12,69,79,0 346,24,385,78,0 203,24,241,76,0 150,96,192,177,0 229,2,268,62,0 432,144,492,210,0 306,178,353,236,0
+C:\Coding\6_Yolov5\dataset\covid_29.jpg 495,344,595,483,1 1098,399,1207,524,1 1874,895,2046,1127,1 2145,783,2329,989,1 1783,111,1831,195,1 1623,149,1674,238,1 2025,118,2101,209,1 2127,66,2202,162,1 1527,80,1604,185,1 1241,233,1292,333,1 410,291,504,392,1 132,321,245,460,1 420,166,478,240,1 314,80,377,159,1 857,154,921,238,1 1108,324,1181,394,1
+C:\Coding\6_Yolov5\dataset\covid_30.jpg 382,514,520,677,0 623,478,769,637,0 933,529,1041,698,1 1184,533,1322,689,0 1655,637,1702,692,0 1951,715,2007,781,0 1904,660,1942,717,0
+C:\Coding\6_Yolov5\dataset\covid_31.jpg 389,193,441,255,1 641,190,679,249,1 678,121,718,178,1 564,133,597,175,1 388,117,445,184,1 202,201,258,265,1 66,201,100,252,1 158,181,201,230,1 343,120,382,160,1 442,104,469,153,1 25,175,58,236,1 25,368,126,467,1
+C:\Coding\6_Yolov5\dataset\covid_32.jpg 274,11,367,104,1 371,42,396,82,1 10,89,81,175,1 833,47,899,110,0 517,78,586,151,0 686,61,713,95,1 764,62,788,95,1 495,66,523,100,0 578,66,612,96,0 899,44,915,67,0 743,29,757,50,1 950,18,961,37,1
+C:\Coding\6_Yolov5\dataset\covid_33.jpg 864,165,928,251,0 1133,98,1189,175,1 1241,100,1277,134,1 999,118,1037,165,1 1043,114,1082,162,1 714,136,749,183,1 414,176,473,259,1 577,87,637,166,1 294,163,335,237,1 269,212,333,279,1 188,194,240,252,1 34,185,101,269,1 11,180,48,256,1 376,119,438,178,1 456,124,505,183,1 852,105,881,142,1 904,124,948,169,1
+C:\Coding\6_Yolov5\dataset\covid_34.jpg 243,218,354,337,0 605,174,694,316,0 797,52,869,159,1 351,103,437,225,1 478,162,548,265,1 113,61,157,144,1 565,67,663,166,1 930,84,969,158,1
+C:\Coding\6_Yolov5\dataset\covid_35.jpg 469,225,522,289,0 709,131,772,200,1 979,215,1001,258,1 587,249,600,279,1 262,207,308,267,0 161,191,236,263,0 99,227,120,250,1
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_27_Pro.jpg 431,105,722,525,0
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_29_Pro.jpg 416,109,709,469,0
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_30_Pro.jpg 449,126,729,480,0
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_34_Pro.jpg 439,110,703,480,1
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_35_Pro.jpg 441,108,710,469,1
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_36_Pro.jpg 429,100,705,462,1
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_46_Pro.jpg 430,115,678,462,0
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_47_Pro.jpg 432,120,690,465,0
+C:\Coding\6_Yolov5\dataset\WIN_20210409_00_23_49_Pro.jpg 402,111,680,452,0
+C:\Coding\6_Yolov5\dataset\covid_random1.jpg 60,34,148,148,0 268,28,354,142,0 466,12,562,129,0 677,43,761,157,0 895,38,986,143,0 870,228,961,358,0 670,222,771,344,0 859,431,960,556,0 687,428,783,546,0 479,217,561,335,0 456,426,559,563,0 253,429,351,547,0 251,242,356,369,0 46,229,148,359,0 32,422,135,549,0
+C:\Coding\6_Yolov5\dataset\covid_random10.jpg 543,137,745,409,0 873,152,1073,406,0 1165,188,1416,471,0 679,45,809,176,0
+C:\Coding\6_Yolov5\dataset\covid_random11.jpg 130,22,340,299,0 787,111,920,272,0 1110,20,1247,166,1 1631,24,1954,392,0 1252,423,1350,542,0 1582,746,2027,1386,0 1155,868,1372,1076,0 594,897,842,1218,0 110,759,170,830,1 178,799,254,899,0 152,1253,240,1359,0 1121,1167,1387,1557,0 559,1532,907,1960,0 1254,1765,1343,1864,0 1662,1568,1965,1971,0 145,1749,240,1889,0
+C:\Coding\6_Yolov5\dataset\covid_random12.jpg 49,34,147,168,0 242,33,361,150,0 446,68,539,165,0 640,25,760,168,0 848,25,950,164,0 852,276,960,427,0 646,282,751,416,0 437,268,551,419,0 244,272,353,434,0 58,275,154,410,0 42,531,145,664,0 234,540,359,677,0 457,524,544,660,0 656,527,743,658,0 826,516,958,668,0
+C:\Coding\6_Yolov5\dataset\covid_random13.jpg 72,355,124,418,1 584,328,633,392,1 744,268,802,342,1 642,243,685,296,1 700,180,752,242,1 660,165,695,212,1 705,131,739,177,1 723,56,755,95,1 664,79,699,122,1 586,82,614,127,1 521,60,547,94,1 446,69,474,109,1 380,54,407,79,1 308,76,334,111,1 361,97,393,136,1 500,139,534,182,1 427,149,469,202,1 528,213,566,267,1 399,307,457,371,1 332,231,374,284,1 229,192,272,243,1 205,132,235,170,1 142,138,180,183,1 108,182,150,224,1 123,76,154,114,1 266,97,298,137,1 65,255,110,310,1 143,266,200,321,1 253,314,312,382,1 324,142,362,183,1
+C:\Coding\6_Yolov5\dataset\covid_random14.jpg 23,37,125,163,1 191,31,275,159,1 323,46,432,151,1 473,23,578,164,1 633,28,726,159,1 629,215,721,347,1 482,215,577,347,1 323,200,427,354,1 176,219,274,352,1 30,225,121,346,1 30,405,123,535,1 178,409,278,529,1 330,409,422,533,1 480,408,574,536,1 628,406,725,536,1 631,615,721,720,1 480,585,574,722,1 325,579,426,721,1 175,585,274,715,1 26,594,123,722,1
+C:\Coding\6_Yolov5\dataset\covid_random2.jpg 157,206,258,354,1 911,198,1095,508,1 451,199,617,420,1
+C:\Coding\6_Yolov5\dataset\covid_random3.jpg 129,180,343,462,1 737,269,926,501,1 971,328,1098,503,1
+C:\Coding\6_Yolov5\dataset\covid_random4.jpg 130,87,272,303,0 447,72,594,288,0 789,84,938,293,0 110,400,264,622,0 461,439,572,608,0 779,425,911,623,0 778,773,902,920,0 433,787,581,938,0 94,723,265,964,0
+C:\Coding\6_Yolov5\dataset\covid_random5.jpg 113,1029,250,1200,1 132,736,268,916,1 388,732,525,917,1 730,749,891,938,1 1050,703,1193,912,1 422,984,555,1178,1 751,1004,896,1233,1 1055,1054,1203,1265,1 1095,388,1232,586,1 1093,72,1209,256,1 749,380,891,582,1 381,431,513,599,1 722,82,887,308,1 422,86,570,276,1 112,75,251,278,1 56,377,205,600,1
+C:\Coding\6_Yolov5\dataset\covid_random6.jpg 33,34,114,143,1 206,59,286,137,1 376,38,460,147,1 524,30,635,182,1 695,49,779,153,1 873,49,961,171,1 874,286,954,405,1 693,278,796,409,1 543,296,628,394,1 369,289,450,400,1 201,303,284,405,1 34,270,130,413,1
+C:\Coding\6_Yolov5\dataset\covid_random7.jpg 18,22,63,87,0 106,23,148,88,0 185,12,240,86,0 270,19,326,99,0 351,24,411,102,0 433,29,495,103,0 523,23,575,92,0 604,23,663,101,0 695,30,742,94,0 773,11,800,90,0 781,130,800,208,0 684,129,754,210,0 606,140,661,204,0 517,146,579,216,0 429,131,493,216,0 359,145,406,209,0 272,129,324,197,0 188,135,235,195,0 101,152,151,208,0 11,132,72,206,0 11,243,69,315,0 98,246,158,318,0 185,249,238,319,0 272,240,326,311,0 357,261,411,325,0 436,243,491,317,0 432,357,492,427,0 349,355,407,425,0 260,356,326,436,0 186,366,238,432,0 96,348,157,435,0 12,363,73,432,0 512,353,583,438,0 515,243,578,323,0 688,252,748,325,0 686,357,751,432,0 595,354,669,436,0 606,275,662,327,0 772,258,800,325,0 775,355,800,427,0
+C:\Coding\6_Yolov5\dataset\covid_random8.jpg 119,525,192,618,0 322,512,435,652,0 547,522,653,667,0 838,518,963,670,0 841,281,964,431,0 838,46,964,198,0 547,55,650,191,0 549,292,652,430,0 323,280,433,411,0 117,291,192,378,0 117,54,192,146,0 322,42,433,176,0
+C:\Coding\6_Yolov5\dataset\covid_random9.jpg 194,633,300,786,1 439,620,527,746,1 628,566,709,660,1 743,488,828,567,1 836,622,937,753,1 934,374,1000,496,1 791,243,865,342,1 842,181,910,263,1 968,173,1000,252,1 873,43,936,125,1 743,59,799,127,1 703,142,758,212,1 629,216,689,298,1 450,309,524,411,1 329,403,413,493,1 123,473,198,556,1 0,277,56,389,1 124,259,188,330,1 231,255,314,349,1 344,170,404,247,1 482,207,541,271,1 529,109,585,193,1 597,57,650,130,1 428,68,495,143,1 248,87,293,159,1 85,134,137,209,1 196,25,246,92,1 35,69,94,142,1 121,14,177,76,1 367,4,426,81,1 544,396,628,497,1 686,312,761,405,1
+C:\Coding\6_Yolov5\dataset\0-with-mask.jpg 245,53,364,203,0
+C:\Coding\6_Yolov5\dataset\0.jpg 52,27,114,108,1
+C:\Coding\6_Yolov5\dataset\1-with-mask.jpg 193,0,388,264,0
+C:\Coding\6_Yolov5\dataset\1.jpg 10,40,138,171,1
+C:\Coding\6_Yolov5\dataset\10-with-mask.jpg 66,58,161,177,0
+C:\Coding\6_Yolov5\dataset\10.jpg 48,88,210,275,1
+C:\Coding\6_Yolov5\dataset\100-with-mask.jpg 53,73,274,353,0
+C:\Coding\6_Yolov5\dataset\100.jpg 42,59,285,356,1
+C:\Coding\6_Yolov5\dataset\101-with-mask.jpg 61,82,278,369,0
+C:\Coding\6_Yolov5\dataset\101.jpg 59,82,278,372,1
+C:\Coding\6_Yolov5\dataset\102.jpg 65,75,282,352,1
+C:\Coding\6_Yolov5\dataset\103-with-mask.jpg 56,95,280,391,0
+C:\Coding\6_Yolov5\dataset\104-with-mask.jpg 47,85,240,299,0
+C:\Coding\6_Yolov5\dataset\104.jpg 50,93,246,303,1
+C:\Coding\6_Yolov5\dataset\105-with-mask.jpg 29,49,146,179,0
+C:\Coding\6_Yolov5\dataset\105.jpg 42,50,140,178,1
+C:\Coding\6_Yolov5\dataset\106-with-mask.jpg 132,96,353,366,0
+C:\Coding\6_Yolov5\dataset\106.jpg 142,96,349,375,1
+C:\Coding\6_Yolov5\dataset\107-with-mask.jpg 38,99,254,358,0
+C:\Coding\6_Yolov5\dataset\107.jpg 31,102,261,370,1
+C:\Coding\6_Yolov5\dataset\108-with-mask.jpg 61,98,268,354,0
+C:\Coding\6_Yolov5\dataset\108.jpg 61,102,267,358,1
+C:\Coding\6_Yolov5\dataset\109-with-mask.jpg 47,75,207,261,0
+C:\Coding\6_Yolov5\dataset\109.jpg 55,72,201,266,1
+C:\Coding\6_Yolov5\dataset\11-with-mask.jpg 182,45,325,239,0
+C:\Coding\6_Yolov5\dataset\11.jpg 72,57,163,171,1
+C:\Coding\6_Yolov5\dataset\110-with-mask.jpg 114,114,319,370,0
+C:\Coding\6_Yolov5\dataset\110.jpg 116,116,305,375,1
+C:\Coding\6_Yolov5\dataset\111-with-mask.jpg 56,79,248,341,0
+C:\Coding\6_Yolov5\dataset\111.jpg 58,82,246,349,1
+C:\Coding\6_Yolov5\dataset\112-with-mask.jpg 83,52,207,199,0
+C:\Coding\6_Yolov5\dataset\112.jpg 85,57,207,202,1
+C:\Coding\6_Yolov5\dataset\113-with-mask.jpg 58,64,255,341,0
+C:\Coding\6_Yolov5\dataset\114-with-mask.jpg 73,66,281,360,0
+C:\Coding\6_Yolov5\dataset\114.jpg 75,70,279,370,1
+C:\Coding\6_Yolov5\dataset\115-with-mask.jpg 56,73,256,361,0
+C:\Coding\6_Yolov5\dataset\115.jpg 59,79,256,364,1
+C:\Coding\6_Yolov5\dataset\116-with-mask.jpg 112,23,202,141,0
+C:\Coding\6_Yolov5\dataset\116.jpg 112,25,203,142,1
+C:\Coding\6_Yolov5\dataset\117-with-mask.jpg 53,98,262,362,0
+C:\Coding\6_Yolov5\dataset\117.jpg 57,99,264,373,1
+C:\Coding\6_Yolov5\dataset\118-with-mask.jpg 89,38,223,223,0
+C:\Coding\6_Yolov5\dataset\118.jpg 89,36,231,230,1
+C:\Coding\6_Yolov5\dataset\119-with-mask.jpg 73,89,276,364,0
+C:\Coding\6_Yolov5\dataset\119.jpg 70,97,273,372,1
+C:\Coding\6_Yolov5\dataset\12-with-mask.jpg 258,129,361,258,0
+C:\Coding\6_Yolov5\dataset\12.jpg 68,69,277,349,1
+C:\Coding\6_Yolov5\dataset\120-with-mask.jpg 68,83,288,353,0
+C:\Coding\6_Yolov5\dataset\120.jpg 68,82,283,359,1
+C:\Coding\6_Yolov5\dataset\121-with-mask.jpg 50,69,248,346,0
+C:\Coding\6_Yolov5\dataset\122-with-mask.jpg 78,65,268,340,0
+C:\Coding\6_Yolov5\dataset\122.jpg 75,65,268,345,1
+C:\Coding\6_Yolov5\dataset\123-with-mask.jpg 63,83,255,341,0
+C:\Coding\6_Yolov5\dataset\123.jpg 70,85,257,349,1
+C:\Coding\6_Yolov5\dataset\124-with-mask.jpg 71,68,280,357,0
+C:\Coding\6_Yolov5\dataset\124.jpg 70,67,277,361,1
+C:\Coding\6_Yolov5\dataset\125-with-mask.jpg 73,71,263,344,0
+C:\Coding\6_Yolov5\dataset\125.jpg 75,73,262,346,1
+C:\Coding\6_Yolov5\dataset\126-with-mask.jpg 65,101,272,358,0
+C:\Coding\6_Yolov5\dataset\127-with-mask.jpg 18,48,157,190,0
+C:\Coding\6_Yolov5\dataset\127.jpg 17,55,157,193,1
+C:\Coding\6_Yolov5\dataset\128-with-mask.jpg 58,68,245,263,0
+C:\Coding\6_Yolov5\dataset\128.jpg 61,61,235,275,1
+C:\Coding\6_Yolov5\dataset\129-with-mask.jpg 65,85,275,370,0
+C:\Coding\6_Yolov5\dataset\129.jpg 70,92,274,381,1
+C:\Coding\6_Yolov5\dataset\13-with-mask.jpg 207,52,338,223,0
+C:\Coding\6_Yolov5\dataset\13.jpg 54,56,275,368,1
+C:\Coding\6_Yolov5\dataset\130.jpg 304,160,566,556,1
+C:\Coding\6_Yolov5\dataset\131-with-mask.jpg 83,90,273,327,0
+C:\Coding\6_Yolov5\dataset\131.jpg 89,89,279,329,1
+C:\Coding\6_Yolov5\dataset\132-with-mask.jpg 278,125,374,245,0
+C:\Coding\6_Yolov5\dataset\132.jpg 278,128,373,244,1
+C:\Coding\6_Yolov5\dataset\133-with-mask.jpg 88,97,276,362,0
+C:\Coding\6_Yolov5\dataset\133.jpg 89,100,275,365,1
+C:\Coding\6_Yolov5\dataset\134-with-mask.jpg 61,97,258,363,0
+C:\Coding\6_Yolov5\dataset\134.jpg 64,98,259,373,1
+C:\Coding\6_Yolov5\dataset\135-with-mask.jpg 62,64,259,351,0
+C:\Coding\6_Yolov5\dataset\135.jpg 65,68,264,352,1
+C:\Coding\6_Yolov5\dataset\136-with-mask.jpg 53,71,239,276,0
+C:\Coding\6_Yolov5\dataset\136.jpg 57,63,238,276,1
+C:\Coding\6_Yolov5\dataset\137-with-mask.jpg 76,34,166,159,0
+C:\Coding\6_Yolov5\dataset\137.jpg 77,38,165,161,1
+C:\Coding\6_Yolov5\dataset\138-with-mask.jpg 386,327,575,544,0
+C:\Coding\6_Yolov5\dataset\138.jpg 385,324,572,550,1
+C:\Coding\6_Yolov5\dataset\139-with-mask.jpg 73,108,270,363,0
+C:\Coding\6_Yolov5\dataset\139.jpg 74,110,272,373,1
+C:\Coding\6_Yolov5\dataset\14-with-mask.jpg 60,45,137,147,0
+C:\Coding\6_Yolov5\dataset\14.jpg 61,42,136,146,1
+C:\Coding\6_Yolov5\dataset\140-with-mask.jpg 70,95,273,367,0
+C:\Coding\6_Yolov5\dataset\140.jpg 66,94,269,376,1
+C:\Coding\6_Yolov5\dataset\141-with-mask.jpg 30,11,165,227,0
+C:\Coding\6_Yolov5\dataset\141.jpg 26,11,170,233,1
+C:\Coding\6_Yolov5\dataset\142.jpg 56,78,158,183,1
+C:\Coding\6_Yolov5\dataset\143-with-mask.jpg 14,10,88,118,0
+C:\Coding\6_Yolov5\dataset\143.jpg 18,9,89,121,1
+C:\Coding\6_Yolov5\dataset\144-with-mask.jpg 69,47,283,364,0
+C:\Coding\6_Yolov5\dataset\145.jpg 62,70,259,386,1
+C:\Coding\6_Yolov5\dataset\146-with-mask.jpg 73,51,257,319,0
+C:\Coding\6_Yolov5\dataset\146.jpg 77,50,263,326,1
+C:\Coding\6_Yolov5\dataset\147-with-mask.jpg 38,51,132,168,0
+C:\Coding\6_Yolov5\dataset\148-with-mask.jpg 90,80,274,318,0
+C:\Coding\6_Yolov5\dataset\148.jpg 88,83,272,324,1
+C:\Coding\6_Yolov5\dataset\149.jpg 69,99,257,383,1
+C:\Coding\6_Yolov5\dataset\15-with-mask.jpg 145,7,320,264,0
+C:\Coding\6_Yolov5\dataset\15.jpg 60,78,265,364,1
+C:\Coding\6_Yolov5\dataset\150-with-mask.jpg 59,123,319,457,0
+C:\Coding\6_Yolov5\dataset\151-with-mask.jpg 31,99,233,362,0
+C:\Coding\6_Yolov5\dataset\151.jpg 31,98,231,366,1
+C:\Coding\6_Yolov5\dataset\152-with-mask.jpg 48,41,164,194,0
+C:\Coding\6_Yolov5\dataset\152.jpg 50,40,162,199,1
+C:\Coding\6_Yolov5\dataset\153-with-mask.jpg 26,53,172,244,0
+C:\Coding\6_Yolov5\dataset\153.jpg 26,51,173,246,1
+C:\Coding\6_Yolov5\dataset\154-with-mask.jpg 43,44,165,183,0
+C:\Coding\6_Yolov5\dataset\154.jpg 42,47,166,183,1
+C:\Coding\6_Yolov5\dataset\155-with-mask.jpg 45,39,118,127,0
+C:\Coding\6_Yolov5\dataset\155.jpg 44,41,119,128,1
+C:\Coding\6_Yolov5\dataset\156-with-mask.jpg 96,27,191,139,0
+C:\Coding\6_Yolov5\dataset\156.jpg 93,24,189,140,1
+C:\Coding\6_Yolov5\dataset\157-with-mask.jpg 84,168,343,496,0
+C:\Coding\6_Yolov5\dataset\157.jpg 85,166,336,498,1
+C:\Coding\6_Yolov5\dataset\158-with-mask.jpg 71,72,279,357,0
+C:\Coding\6_Yolov5\dataset\158.jpg 69,74,283,357,1
+C:\Coding\6_Yolov5\dataset\159-with-mask.jpg 31,82,174,229,0
+C:\Coding\6_Yolov5\dataset\159.jpg 40,78,170,235,1
+C:\Coding\6_Yolov5\dataset\16-with-mask.jpg 90,87,242,290,0
+C:\Coding\6_Yolov5\dataset\16.jpg 95,25,385,427,1
+C:\Coding\6_Yolov5\dataset\160-with-mask.jpg 45,23,117,120,0
+C:\Coding\6_Yolov5\dataset\160.jpg 44,23,117,124,1
+C:\Coding\6_Yolov5\dataset\161-with-mask.jpg 16,83,151,244,0
+C:\Coding\6_Yolov5\dataset\161.jpg 21,87,148,249,1
+C:\Coding\6_Yolov5\dataset\162-with-mask.jpg 79,64,287,344,0
+C:\Coding\6_Yolov5\dataset\162.jpg 81,67,294,359,1
+C:\Coding\6_Yolov5\dataset\163-with-mask.jpg 62,78,255,353,0
+C:\Coding\6_Yolov5\dataset\163.jpg 59,78,257,357,1
+C:\Coding\6_Yolov5\dataset\164.jpg 39,52,150,207,1
+C:\Coding\6_Yolov5\dataset\165-with-mask.jpg 57,57,268,336,0
+C:\Coding\6_Yolov5\dataset\166.jpg 69,57,270,365,1
+C:\Coding\6_Yolov5\dataset\167-with-mask.jpg 62,92,271,355,0
+C:\Coding\6_Yolov5\dataset\168-with-mask.jpg 60,14,179,162,0
+C:\Coding\6_Yolov5\dataset\168.jpg 60,14,187,166,1
+C:\Coding\6_Yolov5\dataset\169-with-mask.jpg 111,20,218,167,0
+C:\Coding\6_Yolov5\dataset\169.jpg 114,21,216,166,1
+C:\Coding\6_Yolov5\dataset\17-with-mask.jpg 198,70,384,313,0
+C:\Coding\6_Yolov5\dataset\17.jpg 69,169,255,387,1
+C:\Coding\6_Yolov5\dataset\170-with-mask.jpg 76,57,121,103,0
+C:\Coding\6_Yolov5\dataset\170.jpg 74,57,121,106,1
+C:\Coding\6_Yolov5\dataset\171-with-mask.jpg 64,110,262,362,0
+C:\Coding\6_Yolov5\dataset\171.jpg 68,94,261,371,1
+C:\Coding\6_Yolov5\dataset\172-with-mask.jpg 82,27,170,143,0
+C:\Coding\6_Yolov5\dataset\172.jpg 80,24,169,146,1
+C:\Coding\6_Yolov5\dataset\173-with-mask.jpg 65,37,135,138,0
+C:\Coding\6_Yolov5\dataset\173.jpg 66,38,134,143,1
+C:\Coding\6_Yolov5\dataset\174-with-mask.jpg 64,73,240,300,0
+C:\Coding\6_Yolov5\dataset\174.jpg 64,72,235,299,1
+C:\Coding\6_Yolov5\dataset\175-with-mask.jpg 64,27,157,139,0
+C:\Coding\6_Yolov5\dataset\175.jpg 65,28,154,142,1
+C:\Coding\6_Yolov5\dataset\176-with-mask.jpg 58,98,269,357,0
+C:\Coding\6_Yolov5\dataset\176.jpg 62,87,269,364,1
+C:\Coding\6_Yolov5\dataset\177-with-mask.jpg 101,42,178,148,0
+C:\Coding\6_Yolov5\dataset\177.jpg 100,43,177,149,1
+C:\Coding\6_Yolov5\dataset\178.jpg 89,50,284,336,1
+C:\Coding\6_Yolov5\dataset\179-with-mask.jpg 25,26,161,218,0
+C:\Coding\6_Yolov5\dataset\179.jpg 31,29,166,223,1
+C:\Coding\6_Yolov5\dataset\18-with-mask.jpg 83,30,270,274,0
+C:\Coding\6_Yolov5\dataset\18.jpg 75,40,191,203,1
+C:\Coding\6_Yolov5\dataset\180-with-mask.jpg 60,101,267,360,0
+C:\Coding\6_Yolov5\dataset\180.jpg 61,94,268,362,1
+C:\Coding\6_Yolov5\dataset\181-with-mask.jpg 54,57,140,167,0
+C:\Coding\6_Yolov5\dataset\181.jpg 55,55,146,170,1
+C:\Coding\6_Yolov5\dataset\182-with-mask.jpg 52,86,252,358,0
+C:\Coding\6_Yolov5\dataset\183-with-mask.jpg 67,85,262,371,0
+C:\Coding\6_Yolov5\dataset\183.jpg 65,86,263,378,1
+C:\Coding\6_Yolov5\dataset\184-with-mask.jpg 71,101,301,423,0
+C:\Coding\6_Yolov5\dataset\184.jpg 71,103,306,426,1
+C:\Coding\6_Yolov5\dataset\185-with-mask.jpg 75,1,215,152,0
+C:\Coding\6_Yolov5\dataset\185.jpg 72,1,217,150,1
+C:\Coding\6_Yolov5\dataset\186-with-mask.jpg 75,67,266,354,0
+C:\Coding\6_Yolov5\dataset\186.jpg 72,70,274,359,1
+C:\Coding\6_Yolov5\dataset\187-with-mask.jpg 82,99,276,357,0
+C:\Coding\6_Yolov5\dataset\187.jpg 77,100,279,361,1
+C:\Coding\6_Yolov5\dataset\188.jpg 80,44,171,143,1
+C:\Coding\6_Yolov5\dataset\189-with-mask.jpg 47,64,204,250,0
+C:\Coding\6_Yolov5\dataset\19-with-mask.jpg 271,66,390,221,0
+C:\Coding\6_Yolov5\dataset\19.jpg 75,99,276,357,1
+C:\Coding\6_Yolov5\dataset\190-with-mask.jpg 213,195,454,468,0
+C:\Coding\6_Yolov5\dataset\191.jpg 120,83,443,495,1
+C:\Coding\6_Yolov5\dataset\192-with-mask.jpg 183,188,289,333,0
+C:\Coding\6_Yolov5\dataset\192.jpg 183,190,290,337,1
+C:\Coding\6_Yolov5\dataset\193-with-mask.jpg 51,56,276,362,0
+C:\Coding\6_Yolov5\dataset\193.jpg 56,68,278,373,1
+C:\Coding\6_Yolov5\dataset\194-with-mask.jpg 78,40,284,355,0
+C:\Coding\6_Yolov5\dataset\194.jpg 73,43,286,370,1
+C:\Coding\6_Yolov5\dataset\195-with-mask.jpg 166,40,422,309,0
+C:\Coding\6_Yolov5\dataset\195.jpg 174,38,412,317,1
+C:\Coding\6_Yolov5\dataset\196-with-mask.jpg 61,82,257,358,0
+C:\Coding\6_Yolov5\dataset\196.jpg 60,82,257,368,1
+C:\Coding\6_Yolov5\dataset\197-with-mask.jpg 73,88,262,367,0
+C:\Coding\6_Yolov5\dataset\197.jpg 74,89,263,376,1
+C:\Coding\6_Yolov5\dataset\198-with-mask.jpg 63,38,175,194,0
+C:\Coding\6_Yolov5\dataset\198.jpg 64,44,174,197,1
+C:\Coding\6_Yolov5\dataset\2-with-mask.jpg 179,95,326,287,0
+C:\Coding\6_Yolov5\dataset\2.jpg 63,131,259,374,1
+C:\Coding\6_Yolov5\dataset\20.jpg 75,67,277,344,1
+C:\Coding\6_Yolov5\dataset\200-with-mask.jpg 91,37,232,214,0
+C:\Coding\6_Yolov5\dataset\201-with-mask.jpg 81,101,263,350,0
+C:\Coding\6_Yolov5\dataset\201.jpg 84,89,265,354,1
+C:\Coding\6_Yolov5\dataset\202-with-mask.jpg 46,80,253,346,0
+C:\Coding\6_Yolov5\dataset\203-with-mask.jpg 108,34,195,155,0
+C:\Coding\6_Yolov5\dataset\203.jpg 111,33,192,159,1
+C:\Coding\6_Yolov5\dataset\204-with-mask.jpg 62,64,258,334,0
+C:\Coding\6_Yolov5\dataset\204.jpg 65,58,254,339,1
+C:\Coding\6_Yolov5\dataset\205-with-mask.jpg 109,18,194,131,0
+C:\Coding\6_Yolov5\dataset\206-with-mask.jpg 75,94,286,386,0
+C:\Coding\6_Yolov5\dataset\206.jpg 80,90,287,393,1
+C:\Coding\6_Yolov5\dataset\207-with-mask.jpg 51,23,185,212,0
+C:\Coding\6_Yolov5\dataset\207.jpg 54,23,190,213,1
+C:\Coding\6_Yolov5\dataset\208.jpg 115,22,202,138,1
+C:\Coding\6_Yolov5\dataset\209-with-mask.jpg 70,118,270,375,0
+C:\Coding\6_Yolov5\dataset\21-with-mask.jpg 180,55,313,232,0
+C:\Coding\6_Yolov5\dataset\210.jpg 34,1,190,210,1
+C:\Coding\6_Yolov5\dataset\211-with-mask.jpg 64,88,141,182,0
+C:\Coding\6_Yolov5\dataset\211.jpg 66,95,142,184,1
+C:\Coding\6_Yolov5\dataset\212-with-mask.jpg 37,83,234,323,0
+C:\Coding\6_Yolov5\dataset\212.jpg 39,81,234,324,1
+C:\Coding\6_Yolov5\dataset\213.jpg 64,106,249,354,1
+C:\Coding\6_Yolov5\dataset\214-with-mask.jpg 52,101,177,247,0
+C:\Coding\6_Yolov5\dataset\214.jpg 50,96,176,250,1
+C:\Coding\6_Yolov5\dataset\215-with-mask.jpg 81,105,276,345,0
+C:\Coding\6_Yolov5\dataset\215.jpg 81,104,274,353,1
+C:\Coding\6_Yolov5\dataset\216.jpg 71,78,263,360,1
+C:\Coding\6_Yolov5\dataset\217-with-mask.jpg 78,54,269,332,0
+C:\Coding\6_Yolov5\dataset\217.jpg 81,54,269,339,1
+C:\Coding\6_Yolov5\dataset\218-with-mask.jpg 74,62,270,359,0
+C:\Coding\6_Yolov5\dataset\218.jpg 72,55,269,364,1
+C:\Coding\6_Yolov5\dataset\219-with-mask.jpg 64,90,276,367,0
+C:\Coding\6_Yolov5\dataset\22.jpg 184,144,315,348,1
+C:\Coding\6_Yolov5\dataset\220.jpg 64,80,201,237,1
+C:\Coding\6_Yolov5\dataset\221-with-mask.jpg 63,84,262,372,0
+C:\Coding\6_Yolov5\dataset\221.jpg 57,88,259,379,1
+C:\Coding\6_Yolov5\dataset\222-with-mask.jpg 50,112,272,353,0
+C:\Coding\6_Yolov5\dataset\222.jpg 61,117,264,357,1
+C:\Coding\6_Yolov5\dataset\223-with-mask.jpg 19,5,145,201,0
+C:\Coding\6_Yolov5\dataset\223.jpg 10,4,146,196,1
+C:\Coding\6_Yolov5\dataset\224-with-mask.jpg 55,86,266,362,0
+C:\Coding\6_Yolov5\dataset\224.jpg 54,87,266,364,1
+C:\Coding\6_Yolov5\dataset\225-with-mask.jpg 55,63,135,170,0
+C:\Coding\6_Yolov5\dataset\225.jpg 56,63,135,171,1
+C:\Coding\6_Yolov5\dataset\226-with-mask.jpg 12,70,110,196,0
+C:\Coding\6_Yolov5\dataset\226.jpg 12,74,110,198,1
+C:\Coding\6_Yolov5\dataset\227-with-mask.jpg 316,155,582,534,0
+C:\Coding\6_Yolov5\dataset\227.jpg 318,155,584,535,1
+C:\Coding\6_Yolov5\dataset\228-with-mask.jpg 166,101,324,283,0
+C:\Coding\6_Yolov5\dataset\228.jpg 163,106,325,283,1
+C:\Coding\6_Yolov5\dataset\229-with-mask.jpg 120,30,239,190,0
+C:\Coding\6_Yolov5\dataset\229.jpg 121,39,236,203,1
+C:\Coding\6_Yolov5\dataset\23-with-mask.jpg 53,41,139,156,0
+C:\Coding\6_Yolov5\dataset\23.jpg 57,41,141,159,1
+C:\Coding\6_Yolov5\dataset\230.jpg 71,81,330,424,1
+C:\Coding\6_Yolov5\dataset\231-with-mask.jpg 64,75,276,340,0
+C:\Coding\6_Yolov5\dataset\231.jpg 62,71,275,351,1
+C:\Coding\6_Yolov5\dataset\232-with-mask.jpg 64,96,287,341,0
+C:\Coding\6_Yolov5\dataset\232.jpg 69,99,284,345,1
+C:\Coding\6_Yolov5\dataset\233-with-mask.jpg 65,33,192,186,0
+C:\Coding\6_Yolov5\dataset\233.jpg 65,38,187,186,1
+C:\Coding\6_Yolov5\dataset\234-with-mask.jpg 68,117,241,319,0
+C:\Coding\6_Yolov5\dataset\234.jpg 63,117,242,320,1
+C:\Coding\6_Yolov5\dataset\235-with-mask.jpg 75,63,270,332,0
+C:\Coding\6_Yolov5\dataset\236-with-mask.jpg 86,84,272,346,0
+C:\Coding\6_Yolov5\dataset\237-with-mask.jpg 43,71,223,279,0
+C:\Coding\6_Yolov5\dataset\237.jpg 39,70,229,283,1
+C:\Coding\6_Yolov5\dataset\238-with-mask.jpg 60,86,122,176,0
+C:\Coding\6_Yolov5\dataset\239-with-mask.jpg 81,118,272,365,0
+C:\Coding\6_Yolov5\dataset\239.jpg 78,114,266,367,1
+C:\Coding\6_Yolov5\dataset\24-with-mask.jpg 56,93,244,253,0
+C:\Coding\6_Yolov5\dataset\24.jpg 59,96,241,261,1
+C:\Coding\6_Yolov5\dataset\240-with-mask.jpg 53,72,137,202,0
+C:\Coding\6_Yolov5\dataset\240.jpg 53,72,137,203,1
+C:\Coding\6_Yolov5\dataset\241-with-mask.jpg 86,32,151,133,0
+C:\Coding\6_Yolov5\dataset\241.jpg 87,31,152,137,1
+C:\Coding\6_Yolov5\dataset\242-with-mask.jpg 53,95,251,357,0
+C:\Coding\6_Yolov5\dataset\242.jpg 55,93,251,362,1
+C:\Coding\6_Yolov5\dataset\243-with-mask.jpg 109,33,247,235,0
+C:\Coding\6_Yolov5\dataset\243.jpg 114,37,252,237,1
+C:\Coding\6_Yolov5\dataset\244-with-mask.jpg 67,66,172,197,0
+C:\Coding\6_Yolov5\dataset\244.jpg 70,63,175,199,1
+C:\Coding\6_Yolov5\dataset\245-with-mask.jpg 55,77,152,192,0
+C:\Coding\6_Yolov5\dataset\246-with-mask.jpg 55,95,249,373,0
+C:\Coding\6_Yolov5\dataset\246.jpg 54,102,252,376,1
+C:\Coding\6_Yolov5\dataset\247.jpg 45,29,106,101,1
+C:\Coding\6_Yolov5\dataset\248.jpg 43,72,216,310,1
+C:\Coding\6_Yolov5\dataset\249.jpg 42,111,214,351,1
+C:\Coding\6_Yolov5\dataset\25-with-mask.jpg 88,88,268,338,0
+C:\Coding\6_Yolov5\dataset\250.jpg 74,66,297,361,1
+C:\Coding\6_Yolov5\dataset\251-with-mask.jpg 107,105,241,260,0
+C:\Coding\6_Yolov5\dataset\251.jpg 109,105,245,259,1
+C:\Coding\6_Yolov5\dataset\252-with-mask.jpg 64,66,267,354,0
+C:\Coding\6_Yolov5\dataset\252.jpg 63,65,262,367,1
+C:\Coding\6_Yolov5\dataset\253-with-mask.jpg 50,68,248,348,0
+C:\Coding\6_Yolov5\dataset\253.jpg 54,74,249,350,1
+C:\Coding\6_Yolov5\dataset\254-with-mask.jpg 32,49,115,161,0
+C:\Coding\6_Yolov5\dataset\254.jpg 35,45,117,164,1
+C:\Coding\6_Yolov5\dataset\255-with-mask.jpg 0,103,197,325,0
+C:\Coding\6_Yolov5\dataset\255.jpg 17,106,195,331,1
+C:\Coding\6_Yolov5\dataset\256-with-mask.jpg 28,38,160,228,0
+C:\Coding\6_Yolov5\dataset\256.jpg 30,39,162,234,1
+C:\Coding\6_Yolov5\dataset\257-with-mask.jpg 87,95,285,359,0
+C:\Coding\6_Yolov5\dataset\258.jpg 65,52,276,353,1
+C:\Coding\6_Yolov5\dataset\259-with-mask.jpg 78,94,270,361,0
+C:\Coding\6_Yolov5\dataset\259.jpg 77,92,268,375,1
+C:\Coding\6_Yolov5\dataset\26-with-mask.jpg 75,76,277,327,0
+C:\Coding\6_Yolov5\dataset\26.jpg 77,76,279,330,1
+C:\Coding\6_Yolov5\dataset\260-with-mask.jpg 70,87,273,365,0
+C:\Coding\6_Yolov5\dataset\260.jpg 69,90,270,371,1
+C:\Coding\6_Yolov5\dataset\261-with-mask.jpg 56,85,270,364,0
+C:\Coding\6_Yolov5\dataset\261.jpg 59,81,270,369,1
+C:\Coding\6_Yolov5\dataset\262-with-mask.jpg 0,126,216,350,0
+C:\Coding\6_Yolov5\dataset\262.jpg 2,114,219,356,1
+C:\Coding\6_Yolov5\dataset\263-with-mask.jpg 37,135,241,357,0
+C:\Coding\6_Yolov5\dataset\263.jpg 38,134,243,367,1
+C:\Coding\6_Yolov5\dataset\264.jpg 130,62,325,303,1
+C:\Coding\6_Yolov5\dataset\265.jpg 81,31,159,135,1
+C:\Coding\6_Yolov5\dataset\266.jpg 68,102,272,369,1
+C:\Coding\6_Yolov5\dataset\267-with-mask.jpg 50,40,132,141,0
+C:\Coding\6_Yolov5\dataset\267.jpg 51,37,129,144,1
+C:\Coding\6_Yolov5\dataset\268-with-mask.jpg 0,105,249,354,0
+C:\Coding\6_Yolov5\dataset\269-with-mask.jpg 80,74,228,279,0
+C:\Coding\6_Yolov5\dataset\269.jpg 82,74,228,280,1
+C:\Coding\6_Yolov5\dataset\27-with-mask.jpg 67,101,267,374,0
+C:\Coding\6_Yolov5\dataset\27.jpg 71,100,266,381,1
+C:\Coding\6_Yolov5\dataset\270-with-mask.jpg 52,51,276,320,0
+C:\Coding\6_Yolov5\dataset\270.jpg 58,51,275,327,1
+C:\Coding\6_Yolov5\dataset\271.jpg 70,25,143,139,1 185,40,252,133,1
+C:\Coding\6_Yolov5\dataset\272-with-mask.jpg 36,56,133,181,0
+C:\Coding\6_Yolov5\dataset\273-with-mask.jpg 50,68,171,220,0
+C:\Coding\6_Yolov5\dataset\274-with-mask.jpg 59,65,264,342,0
+C:\Coding\6_Yolov5\dataset\275-with-mask.jpg 43,49,190,238,0
+C:\Coding\6_Yolov5\dataset\275.jpg 50,48,189,239,1
+C:\Coding\6_Yolov5\dataset\276-with-mask.jpg 76,64,164,170,0
+C:\Coding\6_Yolov5\dataset\276.jpg 74,63,165,174,1
+C:\Coding\6_Yolov5\dataset\277-with-mask.jpg 69,82,273,358,0
+C:\Coding\6_Yolov5\dataset\278-with-mask.jpg 7,3,486,408,0
+C:\Coding\6_Yolov5\dataset\278.jpg 13,0,484,422,1
+C:\Coding\6_Yolov5\dataset\28.jpg 49,146,310,409,1
+C:\Coding\6_Yolov5\dataset\279-with-mask.jpg 42,44,122,147,0
+C:\Coding\6_Yolov5\dataset\280.jpg 74,88,268,373,1
+C:\Coding\6_Yolov5\dataset\281-with-mask.jpg 49,72,155,208,0
+C:\Coding\6_Yolov5\dataset\281.jpg 51,76,155,213,1
+C:\Coding\6_Yolov5\dataset\282-with-mask.jpg 83,80,274,365,0
+C:\Coding\6_Yolov5\dataset\282.jpg 82,79,272,377,1
+C:\Coding\6_Yolov5\dataset\283-with-mask.jpg 136,128,288,314,0
+C:\Coding\6_Yolov5\dataset\283.jpg 134,127,288,321,1
+C:\Coding\6_Yolov5\dataset\284-with-mask.jpg 125,128,349,399,0
+C:\Coding\6_Yolov5\dataset\284.jpg 127,125,349,405,1
+C:\Coding\6_Yolov5\dataset\285-with-mask.jpg 94,66,267,277,0
+C:\Coding\6_Yolov5\dataset\285.jpg 97,66,268,277,1
+C:\Coding\6_Yolov5\dataset\286-with-mask.jpg 77,88,275,361,0 66,3,92,36,0 163,1,191,31,0
+C:\Coding\6_Yolov5\dataset\286.jpg 74,87,274,368,1 67,3,92,38,1 163,1,190,31,1
+C:\Coding\6_Yolov5\dataset\287-with-mask.jpg 84,66,278,331,0
+C:\Coding\6_Yolov5\dataset\287.jpg 83,60,281,337,1
+C:\Coding\6_Yolov5\dataset\288-with-mask.jpg 58,90,256,357,0
+C:\Coding\6_Yolov5\dataset\288.jpg 59,82,258,359,1
+C:\Coding\6_Yolov5\dataset\289-with-mask.jpg 99,47,173,158,0
+C:\Coding\6_Yolov5\dataset\289.jpg 98,48,172,161,1
+C:\Coding\6_Yolov5\dataset\29-with-mask.jpg 75,104,250,363,0
+C:\Coding\6_Yolov5\dataset\29.jpg 77,110,254,367,1
+C:\Coding\6_Yolov5\dataset\290-with-mask.jpg 60,78,248,351,0
+C:\Coding\6_Yolov5\dataset\290.jpg 62,87,250,353,1
+C:\Coding\6_Yolov5\dataset\291-with-mask.jpg 39,57,188,209,0
+C:\Coding\6_Yolov5\dataset\291.jpg 38,61,189,211,1
+C:\Coding\6_Yolov5\dataset\292.jpg 76,58,216,254,1
+C:\Coding\6_Yolov5\dataset\293-with-mask.jpg 70,72,276,343,0
+C:\Coding\6_Yolov5\dataset\293.jpg 72,70,274,345,1
+C:\Coding\6_Yolov5\dataset\294-with-mask.jpg 60,88,257,367,0
+C:\Coding\6_Yolov5\dataset\294.jpg 63,79,263,376,1
+C:\Coding\6_Yolov5\dataset\295-with-mask.jpg 74,107,258,374,0
+C:\Coding\6_Yolov5\dataset\3-with-mask.jpg 222,41,300,153,0
+C:\Coding\6_Yolov5\dataset\299.jpg 174,27,342,243,1
+C:\Coding\6_Yolov5\dataset\299-with-mask.jpg 174,31,349,237,0
+C:\Coding\6_Yolov5\dataset\298.jpg 7,116,249,413,1
+C:\Coding\6_Yolov5\dataset\298-with-mask.jpg 4,113,249,407,0
+C:\Coding\6_Yolov5\dataset\297.jpg 10,88,207,314,1
+C:\Coding\6_Yolov5\dataset\297-with-mask.jpg 8,85,208,309,0
+C:\Coding\6_Yolov5\dataset\296-with-mask.jpg 42,96,273,391,0
+C:\Coding\6_Yolov5\dataset\295.jpg 80,107,262,379,1
+C:\Coding\6_Yolov5\dataset\3.jpg 57,76,262,348,1
+C:\Coding\6_Yolov5\dataset\30-with-mask.jpg 50,68,124,166,0
+C:\Coding\6_Yolov5\dataset\304-with-mask.jpg 66,69,266,333,0
+C:\Coding\6_Yolov5\dataset\306-with-mask.jpg 57,77,254,357,0
+C:\Coding\6_Yolov5\dataset\30.jpg 50,70,126,168,1
+C:\Coding\6_Yolov5\dataset\300.jpg 64,86,252,347,1
+C:\Coding\6_Yolov5\dataset\301-with-mask.jpg 49,39,325,366,0
+C:\Coding\6_Yolov5\dataset\301.jpg 51,34,328,377,1
+C:\Coding\6_Yolov5\dataset\302-with-mask.jpg 87,87,278,359,0
+C:\Coding\6_Yolov5\dataset\302.jpg 84,92,276,368,1
+C:\Coding\6_Yolov5\dataset\303-with-mask.jpg 31,83,246,334,0
+C:\Coding\6_Yolov5\dataset\303.jpg 32,80,247,341,1
+C:\Coding\6_Yolov5\dataset\305-with-mask.jpg 152,238,395,523,0
+C:\Coding\6_Yolov5\dataset\306.jpg 64,75,259,358,1
+C:\Coding\6_Yolov5\dataset\307-with-mask.jpg 66,45,275,281,0
+C:\Coding\6_Yolov5\dataset\307.jpg 72,45,275,284,1
+C:\Coding\6_Yolov5\dataset\308-with-mask.jpg 60,27,155,151,0
+C:\Coding\6_Yolov5\dataset\308.jpg 60,24,152,155,1
+C:\Coding\6_Yolov5\dataset\309-with-mask.jpg 73,99,291,365,0
+C:\Coding\6_Yolov5\dataset\309.jpg 75,98,281,369,1
+C:\Coding\6_Yolov5\dataset\31-with-mask.jpg 77,52,274,328,0
+C:\Coding\6_Yolov5\dataset\31.jpg 84,56,267,332,1
+C:\Coding\6_Yolov5\dataset\310.jpg 69,76,268,336,1
+C:\Coding\6_Yolov5\dataset\311-with-mask.jpg 66,63,268,328,0
+C:\Coding\6_Yolov5\dataset\311.jpg 67,65,272,331,1
+C:\Coding\6_Yolov5\dataset\312.jpg 34,66,177,236,1
+C:\Coding\6_Yolov5\dataset\313-with-mask.jpg 27,79,157,238,0
+C:\Coding\6_Yolov5\dataset\314-with-mask.jpg 50,90,249,320,0
+C:\Coding\6_Yolov5\dataset\315-with-mask.jpg 66,111,262,367,0
+C:\Coding\6_Yolov5\dataset\315.jpg 68,116,263,375,1
+C:\Coding\6_Yolov5\dataset\316-with-mask.jpg 82,75,305,334,0
+C:\Coding\6_Yolov5\dataset\316.jpg 83,73,305,340,1
+C:\Coding\6_Yolov5\dataset\317-with-mask.jpg 52,32,196,247,0
+C:\Coding\6_Yolov5\dataset\317.jpg 54,35,195,248,1
+C:\Coding\6_Yolov5\dataset\318-with-mask.jpg 66,107,251,352,0
+C:\Coding\6_Yolov5\dataset\318.jpg 67,102,252,359,1
+C:\Coding\6_Yolov5\dataset\319-with-mask.jpg 67,76,263,328,0
+C:\Coding\6_Yolov5\dataset\319.jpg 77,68,262,331,1
+C:\Coding\6_Yolov5\dataset\32-with-mask.jpg 76,109,202,272,0
+C:\Coding\6_Yolov5\dataset\32.jpg 76,108,205,270,1
+C:\Coding\6_Yolov5\dataset\321.jpg 66,91,260,375,1
+C:\Coding\6_Yolov5\dataset\322-with-mask.jpg 68,13,152,141,0
+C:\Coding\6_Yolov5\dataset\322.jpg 67,11,151,140,1
+C:\Coding\6_Yolov5\dataset\323-with-mask.jpg 54,42,169,200,0
+C:\Coding\6_Yolov5\dataset\323.jpg 52,45,169,200,1
+C:\Coding\6_Yolov5\dataset\324-with-mask.jpg 68,100,271,346,0
+C:\Coding\6_Yolov5\dataset\324.jpg 68,104,270,353,1
+C:\Coding\6_Yolov5\dataset\325-with-mask.jpg 72,77,265,367,0
+C:\Coding\6_Yolov5\dataset\325.jpg 68,83,265,378,1
+C:\Coding\6_Yolov5\dataset\326-with-mask.jpg 79,134,227,295,0
+C:\Coding\6_Yolov5\dataset\326.jpg 79,127,224,296,1
+C:\Coding\6_Yolov5\dataset\327-with-mask.jpg 247,183,633,688,0
+C:\Coding\6_Yolov5\dataset\327.jpg 245,183,626,695,1
+C:\Coding\6_Yolov5\dataset\328.jpg 195,241,347,436,1
+C:\Coding\6_Yolov5\dataset\329.jpg 68,67,291,346,1
+C:\Coding\6_Yolov5\dataset\33-with-mask.jpg 52,12,171,174,0
+C:\Coding\6_Yolov5\dataset\33.jpg 51,13,171,176,1
+C:\Coding\6_Yolov5\dataset\330-with-mask.jpg 69,63,274,360,0
+C:\Coding\6_Yolov5\dataset\330.jpg 69,66,274,359,1
+C:\Coding\6_Yolov5\dataset\331-with-mask.jpg 60,78,257,357,0
+C:\Coding\6_Yolov5\dataset\331.jpg 61,84,254,363,1
+C:\Coding\6_Yolov5\dataset\332-with-mask.jpg 42,1,197,142,0
+C:\Coding\6_Yolov5\dataset\332.jpg 47,0,197,144,1
+C:\Coding\6_Yolov5\dataset\333-with-mask.jpg 75,77,271,346,0
+C:\Coding\6_Yolov5\dataset\334-with-mask.jpg 57,52,134,153,0
+C:\Coding\6_Yolov5\dataset\334.jpg 57,52,135,153,1
+C:\Coding\6_Yolov5\dataset\335-with-mask.jpg 50,47,140,157,0
+C:\Coding\6_Yolov5\dataset\335.jpg 53,45,140,157,1
+C:\Coding\6_Yolov5\dataset\336-with-mask.jpg 21,8,130,153,0
+C:\Coding\6_Yolov5\dataset\336.jpg 20,8,130,156,1
+C:\Coding\6_Yolov5\dataset\337.jpg 41,30,149,180,1
+C:\Coding\6_Yolov5\dataset\338-with-mask.jpg 70,109,275,371,0
+C:\Coding\6_Yolov5\dataset\338.jpg 74,102,275,371,1
+C:\Coding\6_Yolov5\dataset\339-with-mask.jpg 88,133,312,424,0
+C:\Coding\6_Yolov5\dataset\339.jpg 98,133,314,429,1
+C:\Coding\6_Yolov5\dataset\34-with-mask.jpg 39,71,157,239,0
+C:\Coding\6_Yolov5\dataset\34.jpg 37,66,157,241,1
+C:\Coding\6_Yolov5\dataset\340-with-mask.jpg 70,64,239,323,0
+C:\Coding\6_Yolov5\dataset\340.jpg 64,62,245,338,1
+C:\Coding\6_Yolov5\dataset\341.jpg 37,107,275,427,1
+C:\Coding\6_Yolov5\dataset\342-with-mask.jpg 111,59,214,191,0
+C:\Coding\6_Yolov5\dataset\343-with-mask.jpg 141,143,288,330,0
+C:\Coding\6_Yolov5\dataset\344-with-mask.jpg 60,80,201,248,0
+C:\Coding\6_Yolov5\dataset\344.jpg 63,78,201,245,1
+C:\Coding\6_Yolov5\dataset\345-with-mask.jpg 64,79,272,353,0
+C:\Coding\6_Yolov5\dataset\345.jpg 62,79,271,363,1
+C:\Coding\6_Yolov5\dataset\346-with-mask.jpg 72,91,237,283,0
+C:\Coding\6_Yolov5\dataset\347-with-mask.jpg 32,27,150,198,0
+C:\Coding\6_Yolov5\dataset\347.jpg 32,25,150,197,1
+C:\Coding\6_Yolov5\dataset\348-with-mask.jpg 62,94,261,356,0
+C:\Coding\6_Yolov5\dataset\348.jpg 64,93,264,363,1
+C:\Coding\6_Yolov5\dataset\349-with-mask.jpg 50,186,322,522,0
+C:\Coding\6_Yolov5\dataset\349.jpg 48,189,323,528,1
+C:\Coding\6_Yolov5\dataset\35-with-mask.jpg 70,52,270,330,0
+C:\Coding\6_Yolov5\dataset\350.jpg 61,46,147,160,1
+C:\Coding\6_Yolov5\dataset\351-with-mask.jpg 10,1,205,231,0
+C:\Coding\6_Yolov5\dataset\351.jpg 8,1,203,235,1
+C:\Coding\6_Yolov5\dataset\352.jpg 52,60,135,174,1
+C:\Coding\6_Yolov5\dataset\353-with-mask.jpg 56,13,149,134,0
+C:\Coding\6_Yolov5\dataset\353.jpg 58,14,148,137,1
+C:\Coding\6_Yolov5\dataset\354.jpg 64,43,203,214,1
+C:\Coding\6_Yolov5\dataset\355-with-mask.jpg 175,52,290,207,0
+C:\Coding\6_Yolov5\dataset\355.jpg 178,54,290,211,1
+C:\Coding\6_Yolov5\dataset\356-with-mask.jpg 354,132,642,477,0
+C:\Coding\6_Yolov5\dataset\356.jpg 364,122,635,483,1
+C:\Coding\6_Yolov5\dataset\357-with-mask.jpg 53,84,260,345,0
+C:\Coding\6_Yolov5\dataset\358-with-mask.jpg 49,60,262,359,0
+C:\Coding\6_Yolov5\dataset\359-with-mask.jpg 20,85,291,429,0
+C:\Coding\6_Yolov5\dataset\359.jpg 28,82,295,433,1
+C:\Coding\6_Yolov5\dataset\36-with-mask.jpg 8,57,136,217,0
+C:\Coding\6_Yolov5\dataset\36.jpg 9,59,137,223,1
+C:\Coding\6_Yolov5\dataset\360.jpg 71,84,264,341,1
+C:\Coding\6_Yolov5\dataset\361.jpg 74,65,272,349,1
+C:\Coding\6_Yolov5\dataset\362-with-mask.jpg 78,120,227,319,0
+C:\Coding\6_Yolov5\dataset\362.jpg 79,117,227,320,1
+C:\Coding\6_Yolov5\dataset\363.jpg 75,81,266,373,1
+C:\Coding\6_Yolov5\dataset\364-with-mask.jpg 33,40,165,191,0
+C:\Coding\6_Yolov5\dataset\364.jpg 33,40,151,192,1
+C:\Coding\6_Yolov5\dataset\365-with-mask.jpg 103,39,178,138,0
+C:\Coding\6_Yolov5\dataset\365.jpg 105,40,179,140,1
+C:\Coding\6_Yolov5\dataset\366-with-mask.jpg 93,23,179,153,0
+C:\Coding\6_Yolov5\dataset\367.jpg 63,59,255,368,1
+C:\Coding\6_Yolov5\dataset\368-with-mask.jpg 88,139,245,290,0
+C:\Coding\6_Yolov5\dataset\368.jpg 89,139,244,292,1
+C:\Coding\6_Yolov5\dataset\369-with-mask.jpg 78,69,274,339,0
+C:\Coding\6_Yolov5\dataset\37-with-mask.jpg 47,38,122,128,0
+C:\Coding\6_Yolov5\dataset\37.jpg 50,39,123,129,1
+C:\Coding\6_Yolov5\dataset\370.jpg 72,82,268,373,1
+C:\Coding\6_Yolov5\dataset\372.jpg 64,111,261,361,1
+C:\Coding\6_Yolov5\dataset\373.jpg 61,56,147,176,1
+C:\Coding\6_Yolov5\dataset\374-with-mask.jpg 50,97,229,325,0
+C:\Coding\6_Yolov5\dataset\374.jpg 50,92,230,324,1
+C:\Coding\6_Yolov5\dataset\375-with-mask.jpg 59,89,208,285,0
+C:\Coding\6_Yolov5\dataset\375.jpg 61,88,207,285,1
+C:\Coding\6_Yolov5\dataset\376-with-mask.jpg 79,81,274,362,0
+C:\Coding\6_Yolov5\dataset\376.jpg 81,81,274,361,1
+C:\Coding\6_Yolov5\dataset\377-with-mask.jpg 67,36,127,124,0
+C:\Coding\6_Yolov5\dataset\378-with-mask.jpg 144,0,273,126,0
+C:\Coding\6_Yolov5\dataset\378.jpg 147,0,272,126,1
+C:\Coding\6_Yolov5\dataset\379-with-mask.jpg 74,33,168,161,0
+C:\Coding\6_Yolov5\dataset\379.jpg 72,39,170,169,1
+C:\Coding\6_Yolov5\dataset\38-with-mask.jpg 60,93,251,359,0
+C:\Coding\6_Yolov5\dataset\380-with-mask.jpg 53,99,297,408,0
+C:\Coding\6_Yolov5\dataset\381-with-mask.jpg 58,68,265,334,0
+C:\Coding\6_Yolov5\dataset\382-with-mask.jpg 70,79,261,363,0
+C:\Coding\6_Yolov5\dataset\383-with-mask.jpg 51,104,276,401,0
+C:\Coding\6_Yolov5\dataset\383.jpg 49,100,274,408,1
+C:\Coding\6_Yolov5\dataset\384-with-mask.jpg 79,16,130,84,0
+C:\Coding\6_Yolov5\dataset\384.jpg 79,16,130,84,1
+C:\Coding\6_Yolov5\dataset\385-with-mask.jpg 114,45,156,102,0 164,60,195,102,0 224,70,252,111,0
+C:\Coding\6_Yolov5\dataset\385.jpg 114,45,156,104,1 164,59,195,102,1 225,72,251,110,1
+C:\Coding\6_Yolov5\dataset\386-with-mask.jpg 132,128,290,285,0
+C:\Coding\6_Yolov5\dataset\386.jpg 129,128,290,286,1
+C:\Coding\6_Yolov5\dataset\387-with-mask.jpg 82,57,163,161,0
+C:\Coding\6_Yolov5\dataset\387.jpg 81,56,163,167,1
+C:\Coding\6_Yolov5\dataset\388.jpg 70,97,269,365,1
+C:\Coding\6_Yolov5\dataset\389.jpg 49,49,148,157,1
+C:\Coding\6_Yolov5\dataset\39-with-mask.jpg 63,105,248,346,0
+C:\Coding\6_Yolov5\dataset\39.jpg 67,110,248,346,1
+C:\Coding\6_Yolov5\dataset\390-with-mask.jpg 53,56,263,352,0
+C:\Coding\6_Yolov5\dataset\390.jpg 54,54,263,355,1
+C:\Coding\6_Yolov5\dataset\391-with-mask.jpg 56,93,248,347,0
+C:\Coding\6_Yolov5\dataset\391.jpg 58,92,249,344,1
+C:\Coding\6_Yolov5\dataset\392-with-mask.jpg 53,97,270,380,0
+C:\Coding\6_Yolov5\dataset\392.jpg 56,94,272,385,1
+C:\Coding\6_Yolov5\dataset\393-with-mask.jpg 97,84,323,364,0
+C:\Coding\6_Yolov5\dataset\393.jpg 100,80,312,367,1
+C:\Coding\6_Yolov5\dataset\394-with-mask.jpg 51,82,272,360,0
+C:\Coding\6_Yolov5\dataset\394.jpg 50,81,273,377,1
+C:\Coding\6_Yolov5\dataset\395-with-mask.jpg 35,51,155,203,0
+C:\Coding\6_Yolov5\dataset\395.jpg 35,53,155,208,1
+C:\Coding\6_Yolov5\dataset\396-with-mask.jpg 66,74,278,363,0
+C:\Coding\6_Yolov5\dataset\397-with-mask.jpg 55,69,255,334,0
+C:\Coding\6_Yolov5\dataset\397.jpg 60,71,252,337,1
+C:\Coding\6_Yolov5\dataset\398-with-mask.jpg 69,81,267,346,0
+C:\Coding\6_Yolov5\dataset\398.jpg 69,77,266,347,1
+C:\Coding\6_Yolov5\dataset\399-with-mask.jpg 57,79,255,368,0
+C:\Coding\6_Yolov5\dataset\399.jpg 57,80,254,374,1
+C:\Coding\6_Yolov5\dataset\4-with-mask.jpg 69,107,272,364,0
+C:\Coding\6_Yolov5\dataset\4.jpg 44,19,194,199,1
+C:\Coding\6_Yolov5\dataset\40-with-mask.jpg 52,82,268,359,0
+C:\Coding\6_Yolov5\dataset\40.jpg 53,80,266,362,1
+C:\Coding\6_Yolov5\dataset\400-with-mask.jpg 5,119,269,397,0
+C:\Coding\6_Yolov5\dataset\400.jpg 24,119,280,404,1
+C:\Coding\6_Yolov5\dataset\401-with-mask.jpg 47,88,266,370,0
+C:\Coding\6_Yolov5\dataset\401.jpg 53,78,272,373,1
+C:\Coding\6_Yolov5\dataset\402-with-mask.jpg 34,107,312,410,0
+C:\Coding\6_Yolov5\dataset\402.jpg 44,113,295,418,1
+C:\Coding\6_Yolov5\dataset\403.jpg 98,77,225,242,1
+C:\Coding\6_Yolov5\dataset\404-with-mask.jpg 65,81,259,354,0
+C:\Coding\6_Yolov5\dataset\404.jpg 68,80,253,354,1
+C:\Coding\6_Yolov5\dataset\405-with-mask.jpg 102,77,229,225,0
+C:\Coding\6_Yolov5\dataset\405.jpg 99,76,224,229,1
+C:\Coding\6_Yolov5\dataset\406-with-mask.jpg 61,34,146,151,0
+C:\Coding\6_Yolov5\dataset\406.jpg 61,34,145,154,1
+C:\Coding\6_Yolov5\dataset\407-with-mask.jpg 72,104,272,362,0
+C:\Coding\6_Yolov5\dataset\407.jpg 72,109,272,363,1
+C:\Coding\6_Yolov5\dataset\408-with-mask.jpg 110,100,251,246,0
+C:\Coding\6_Yolov5\dataset\408.jpg 111,93,245,253,1
+C:\Coding\6_Yolov5\dataset\409-with-mask.jpg 192,146,464,473,0
+C:\Coding\6_Yolov5\dataset\409.jpg 204,142,464,477,1
+C:\Coding\6_Yolov5\dataset\41-with-mask.jpg 68,59,295,337,0
+C:\Coding\6_Yolov5\dataset\410.jpg 210,164,397,390,1
+C:\Coding\6_Yolov5\dataset\411-with-mask.jpg 6,34,78,121,0
+C:\Coding\6_Yolov5\dataset\411.jpg 8,34,79,124,1
+C:\Coding\6_Yolov5\dataset\412.jpg 47,0,317,307,1
+C:\Coding\6_Yolov5\dataset\413-with-mask.jpg 51,149,247,373,0
+C:\Coding\6_Yolov5\dataset\413.jpg 51,150,243,375,1
+C:\Coding\6_Yolov5\dataset\414-with-mask.jpg 96,116,231,243,0
+C:\Coding\6_Yolov5\dataset\414.jpg 96,111,226,247,1
+C:\Coding\6_Yolov5\dataset\415-with-mask.jpg 61,109,265,366,0
+C:\Coding\6_Yolov5\dataset\415.jpg 60,109,266,368,1
+C:\Coding\6_Yolov5\dataset\416-with-mask.jpg 64,102,264,359,0
+C:\Coding\6_Yolov5\dataset\416.jpg 62,104,265,362,1
+C:\Coding\6_Yolov5\dataset\417-with-mask.jpg 80,108,263,339,0
+C:\Coding\6_Yolov5\dataset\417.jpg 81,109,263,347,1
+C:\Coding\6_Yolov5\dataset\418-with-mask.jpg 42,113,189,306,0
+C:\Coding\6_Yolov5\dataset\419-with-mask.jpg 68,78,272,328,0
+C:\Coding\6_Yolov5\dataset\419.jpg 71,78,272,337,1
+C:\Coding\6_Yolov5\dataset\42-with-mask.jpg 20,73,260,376,0
+C:\Coding\6_Yolov5\dataset\42.jpg 17,77,260,377,1
+C:\Coding\6_Yolov5\dataset\420-with-mask.jpg 62,34,145,165,0
+C:\Coding\6_Yolov5\dataset\420.jpg 64,37,147,168,1
+C:\Coding\6_Yolov5\dataset\421-with-mask.jpg 84,55,137,127,0
+C:\Coding\6_Yolov5\dataset\421.jpg 83,54,136,127,1
+C:\Coding\6_Yolov5\dataset\422-with-mask.jpg 35,62,128,170,0
+C:\Coding\6_Yolov5\dataset\422.jpg 35,61,124,168,1
+C:\Coding\6_Yolov5\dataset\423.jpg 45,47,131,171,1
+C:\Coding\6_Yolov5\dataset\424-with-mask.jpg 66,34,354,330,0
+C:\Coding\6_Yolov5\dataset\424.jpg 66,42,340,346,1
+C:\Coding\6_Yolov5\dataset\425-with-mask.jpg 74,101,265,350,0
+C:\Coding\6_Yolov5\dataset\425.jpg 75,94,266,353,1
+C:\Coding\6_Yolov5\dataset\426-with-mask.jpg 61,90,277,300,0
+C:\Coding\6_Yolov5\dataset\426.jpg 60,84,267,297,1
+C:\Coding\6_Yolov5\dataset\427-with-mask.jpg 95,38,161,129,0
+C:\Coding\6_Yolov5\dataset\427.jpg 94,36,159,130,1
+C:\Coding\6_Yolov5\dataset\428.jpg 72,34,193,177,1
+C:\Coding\6_Yolov5\dataset\429-with-mask.jpg 63,0,196,150,0
+C:\Coding\6_Yolov5\dataset\43-with-mask.jpg 47,92,265,359,0
+C:\Coding\6_Yolov5\dataset\43.jpg 47,87,265,367,1
+C:\Coding\6_Yolov5\dataset\430-with-mask.jpg 86,34,381,415,0
+C:\Coding\6_Yolov5\dataset\430.jpg 95,33,379,417,1
+C:\Coding\6_Yolov5\dataset\431-with-mask.jpg 18,121,288,437,0
+C:\Coding\6_Yolov5\dataset\431.jpg 20,125,287,434,1
+C:\Coding\6_Yolov5\dataset\432-with-mask.jpg 72,90,276,368,0
+C:\Coding\6_Yolov5\dataset\432.jpg 74,92,274,376,1
+C:\Coding\6_Yolov5\dataset\433-with-mask.jpg 63,74,272,357,0
+C:\Coding\6_Yolov5\dataset\434-with-mask.jpg 81,93,278,345,0
+C:\Coding\6_Yolov5\dataset\434.jpg 79,96,281,344,1
+C:\Coding\6_Yolov5\dataset\435-with-mask.jpg 225,80,636,655,0
+C:\Coding\6_Yolov5\dataset\435.jpg 245,73,626,657,1
+C:\Coding\6_Yolov5\dataset\436-with-mask.jpg 51,42,131,147,0
+C:\Coding\6_Yolov5\dataset\436.jpg 55,42,132,150,1
+C:\Coding\6_Yolov5\dataset\437.jpg 28,55,130,174,1
+C:\Coding\6_Yolov5\dataset\438-with-mask.jpg 66,68,141,171,0
+C:\Coding\6_Yolov5\dataset\438.jpg 67,70,141,173,1
+C:\Coding\6_Yolov5\dataset\439-with-mask.jpg 45,60,158,191,0
+C:\Coding\6_Yolov5\dataset\439.jpg 49,64,158,191,1
+C:\Coding\6_Yolov5\dataset\44.jpg 73,127,278,363,1
+C:\Coding\6_Yolov5\dataset\440-with-mask.jpg 58,76,240,300,0
+C:\Coding\6_Yolov5\dataset\440.jpg 57,72,240,306,1
+C:\Coding\6_Yolov5\dataset\441-with-mask.jpg 63,81,216,260,0 251,149,324,245,0 362,164,398,227,1
+C:\Coding\6_Yolov5\dataset\441.jpg 250,147,322,243,1 62,78,208,264,1
+C:\Coding\6_Yolov5\dataset\442-with-mask.jpg 160,22,224,99,0
+C:\Coding\6_Yolov5\dataset\442.jpg 164,20,224,102,1
+C:\Coding\6_Yolov5\dataset\443-with-mask.jpg 110,44,201,158,0
+C:\Coding\6_Yolov5\dataset\443.jpg 109,45,202,160,1
+C:\Coding\6_Yolov5\dataset\444-with-mask.jpg 64,56,148,143,0
+C:\Coding\6_Yolov5\dataset\444.jpg 65,55,147,145,1
+C:\Coding\6_Yolov5\dataset\445-with-mask.jpg 50,19,185,192,0
+C:\Coding\6_Yolov5\dataset\445.jpg 48,18,190,196,1
+C:\Coding\6_Yolov5\dataset\446-with-mask.jpg 73,83,259,343,0
+C:\Coding\6_Yolov5\dataset\446.jpg 74,84,259,344,1
+C:\Coding\6_Yolov5\dataset\447-with-mask.jpg 98,176,315,473,0
+C:\Coding\6_Yolov5\dataset\447.jpg 101,180,313,479,1
+C:\Coding\6_Yolov5\dataset\448-with-mask.jpg 78,79,184,203,0
+C:\Coding\6_Yolov5\dataset\448.jpg 83,85,189,202,1
+C:\Coding\6_Yolov5\dataset\449-with-mask.jpg 47,58,101,118,0
+C:\Coding\6_Yolov5\dataset\449.jpg 54,59,104,119,1
+C:\Coding\6_Yolov5\dataset\45-with-mask.jpg 79,85,287,365,0
+C:\Coding\6_Yolov5\dataset\45.jpg 77,92,284,373,1
+C:\Coding\6_Yolov5\dataset\450-with-mask.jpg 72,99,267,351,0
+C:\Coding\6_Yolov5\dataset\450.jpg 71,95,277,358,1
+C:\Coding\6_Yolov5\dataset\451-with-mask.jpg 58,0,197,168,0
+C:\Coding\6_Yolov5\dataset\451.jpg 60,1,203,169,1
+C:\Coding\6_Yolov5\dataset\452-with-mask.jpg 33,54,187,223,0
+C:\Coding\6_Yolov5\dataset\452.jpg 45,58,190,221,1
+C:\Coding\6_Yolov5\dataset\453-with-mask.jpg 71,103,257,348,0
+C:\Coding\6_Yolov5\dataset\453.jpg 72,109,262,354,1
+C:\Coding\6_Yolov5\dataset\454-with-mask.jpg 72,78,258,329,0
+C:\Coding\6_Yolov5\dataset\454.jpg 74,76,257,336,1
+C:\Coding\6_Yolov5\dataset\455-with-mask.jpg 75,111,267,372,0
+C:\Coding\6_Yolov5\dataset\455.jpg 78,112,273,376,1
+C:\Coding\6_Yolov5\dataset\456-with-mask.jpg 63,105,267,362,0
+C:\Coding\6_Yolov5\dataset\456.jpg 61,96,273,366,1
+C:\Coding\6_Yolov5\dataset\457-with-mask.jpg 86,115,268,356,0
+C:\Coding\6_Yolov5\dataset\457.jpg 83,114,272,363,1
+C:\Coding\6_Yolov5\dataset\458-with-mask.jpg 77,45,394,446,0
+C:\Coding\6_Yolov5\dataset\458.jpg 77,49,399,443,1
+C:\Coding\6_Yolov5\dataset\459-with-mask.jpg 128,29,378,381,0
+C:\Coding\6_Yolov5\dataset\459.jpg 131,29,381,380,1
+C:\Coding\6_Yolov5\dataset\46-with-mask.jpg 80,118,260,341,0
+C:\Coding\6_Yolov5\dataset\46.jpg 75,121,263,349,1
+C:\Coding\6_Yolov5\dataset\460-with-mask.jpg 81,13,182,162,0
+C:\Coding\6_Yolov5\dataset\460.jpg 84,11,182,161,1
+C:\Coding\6_Yolov5\dataset\461-with-mask.jpg 74,105,258,360,0
+C:\Coding\6_Yolov5\dataset\461.jpg 73,111,266,369,1
+C:\Coding\6_Yolov5\dataset\462-with-mask.jpg 38,53,171,237,0
+C:\Coding\6_Yolov5\dataset\462.jpg 44,57,173,241,1
+C:\Coding\6_Yolov5\dataset\463-with-mask.jpg 73,99,254,348,0
+C:\Coding\6_Yolov5\dataset\463.jpg 69,101,262,354,1
+C:\Coding\6_Yolov5\dataset\464-with-mask.jpg 65,93,258,347,0
+C:\Coding\6_Yolov5\dataset\464.jpg 69,95,255,352,1
+C:\Coding\6_Yolov5\dataset\465.jpg 35,60,154,231,1
+C:\Coding\6_Yolov5\dataset\466-with-mask.jpg 84,98,263,353,0
+C:\Coding\6_Yolov5\dataset\466.jpg 82,94,270,366,1
+C:\Coding\6_Yolov5\dataset\477.jpg 77,64,271,351,1
+C:\Coding\6_Yolov5\dataset\477-with-mask.jpg 81,60,266,345,0
+C:\Coding\6_Yolov5\dataset\476.jpg 63,23,137,115,1
+C:\Coding\6_Yolov5\dataset\476-with-mask.jpg 65,21,136,115,0
+C:\Coding\6_Yolov5\dataset\475.jpg 62,95,258,350,1
+C:\Coding\6_Yolov5\dataset\475-with-mask.jpg 59,93,255,349,0
+C:\Coding\6_Yolov5\dataset\474-with-mask.jpg 87,86,259,340,0
+C:\Coding\6_Yolov5\dataset\473-with-mask.jpg 174,192,367,446,0
+C:\Coding\6_Yolov5\dataset\472-with-mask.jpg 118,72,350,385,0
+C:\Coding\6_Yolov5\dataset\471-with-mask.jpg 65,76,261,350,0
+C:\Coding\6_Yolov5\dataset\47.jpg 65,109,315,447,1
+C:\Coding\6_Yolov5\dataset\47-with-mask.jpg 60,126,310,434,0
+C:\Coding\6_Yolov5\dataset\469.jpg 61,115,272,373,1
+C:\Coding\6_Yolov5\dataset\468.jpg 173,205,453,537,1
+C:\Coding\6_Yolov5\dataset\467.jpg 61,97,233,317,1
+C:\Coding\6_Yolov5\dataset\467-with-mask.jpg 60,88,229,316,0
+C:\Coding\6_Yolov5\dataset\478-with-mask.jpg 33,76,262,353,0
+C:\Coding\6_Yolov5\dataset\478.jpg 35,83,262,356,1
+C:\Coding\6_Yolov5\dataset\479-with-mask.jpg 66,102,261,372,0
+C:\Coding\6_Yolov5\dataset\48-with-mask.jpg 108,23,188,139,0
+C:\Coding\6_Yolov5\dataset\48.jpg 110,22,190,141,1
+C:\Coding\6_Yolov5\dataset\480-with-mask.jpg 48,130,244,374,0
+C:\Coding\6_Yolov5\dataset\480.jpg 47,128,245,377,1
+C:\Coding\6_Yolov5\dataset\481-with-mask.jpg 52,46,169,211,0
+C:\Coding\6_Yolov5\dataset\49-with-mask.jpg 36,74,149,239,0
+C:\Coding\6_Yolov5\dataset\49.jpg 35,74,153,243,1
+C:\Coding\6_Yolov5\dataset\5-with-mask.jpg 132,39,347,322,0
+C:\Coding\6_Yolov5\dataset\50-with-mask.jpg 49,27,140,150,0
+C:\Coding\6_Yolov5\dataset\50.jpg 48,27,140,153,1
+C:\Coding\6_Yolov5\dataset\51-with-mask.jpg 71,87,245,339,0
+C:\Coding\6_Yolov5\dataset\51.jpg 67,81,244,341,1
+C:\Coding\6_Yolov5\dataset\52-with-mask.jpg 60,82,277,357,0
+C:\Coding\6_Yolov5\dataset\52.jpg 64,79,277,362,1
+C:\Coding\6_Yolov5\dataset\53-with-mask.jpg 48,70,146,181,0
+C:\Coding\6_Yolov5\dataset\53.jpg 49,71,145,182,1
+C:\Coding\6_Yolov5\dataset\54.jpg 71,84,277,350,1
+C:\Coding\6_Yolov5\dataset\55.jpg 196,116,383,375,1
+C:\Coding\6_Yolov5\dataset\56-with-mask.jpg 71,104,264,370,0
+C:\Coding\6_Yolov5\dataset\56.jpg 72,98,267,375,1
+C:\Coding\6_Yolov5\dataset\57-with-mask.jpg 12,143,261,488,0
+C:\Coding\6_Yolov5\dataset\57.jpg 18,142,266,496,1
+C:\Coding\6_Yolov5\dataset\58.jpg 135,57,344,282,1
+C:\Coding\6_Yolov5\dataset\59-with-mask.jpg 61,101,263,362,0
+C:\Coding\6_Yolov5\dataset\59.jpg 63,97,266,365,1
+C:\Coding\6_Yolov5\dataset\6-with-mask.jpg 256,71,372,214,0
+C:\Coding\6_Yolov5\dataset\6.jpg 200,109,320,297,1
+C:\Coding\6_Yolov5\dataset\61-with-mask.jpg 71,76,241,298,0
+C:\Coding\6_Yolov5\dataset\61.jpg 74,82,247,305,1
+C:\Coding\6_Yolov5\dataset\62-with-mask.jpg 45,58,189,221,0
+C:\Coding\6_Yolov5\dataset\62.jpg 45,57,187,220,1
+C:\Coding\6_Yolov5\dataset\63.jpg 45,53,150,196,1
+C:\Coding\6_Yolov5\dataset\64-with-mask.jpg 83,79,275,355,0
+C:\Coding\6_Yolov5\dataset\64.jpg 84,76,276,360,1
+C:\Coding\6_Yolov5\dataset\65-with-mask.jpg 79,72,269,346,0
+C:\Coding\6_Yolov5\dataset\65.jpg 78,81,269,350,1
+C:\Coding\6_Yolov5\dataset\66.jpg 28,80,197,292,1
+C:\Coding\6_Yolov5\dataset\67-with-mask.jpg 57,15,170,169,0
+C:\Coding\6_Yolov5\dataset\67.jpg 57,16,180,174,1
+C:\Coding\6_Yolov5\dataset\68-with-mask.jpg 53,105,202,266,0
+C:\Coding\6_Yolov5\dataset\69.jpg 58,141,238,329,1
+C:\Coding\6_Yolov5\dataset\7-with-mask.jpg 54,98,288,389,0
+C:\Coding\6_Yolov5\dataset\7.jpg 100,179,420,612,1
+C:\Coding\6_Yolov5\dataset\70-with-mask.jpg 58,105,247,359,0
+C:\Coding\6_Yolov5\dataset\70.jpg 55,104,253,361,1
+C:\Coding\6_Yolov5\dataset\71-with-mask.jpg 79,86,238,284,0
+C:\Coding\6_Yolov5\dataset\72-with-mask.jpg 66,90,258,361,0
+C:\Coding\6_Yolov5\dataset\73-with-mask.jpg 73,38,160,147,0
+C:\Coding\6_Yolov5\dataset\73.jpg 73,40,163,150,1
+C:\Coding\6_Yolov5\dataset\74-with-mask.jpg 71,45,159,159,0
+C:\Coding\6_Yolov5\dataset\74.jpg 71,46,160,160,1
+C:\Coding\6_Yolov5\dataset\75-with-mask.jpg 121,42,181,118,0
+C:\Coding\6_Yolov5\dataset\76-with-mask.jpg 28,89,158,248,0
+C:\Coding\6_Yolov5\dataset\76.jpg 27,85,159,251,1
+C:\Coding\6_Yolov5\dataset\77-with-mask.jpg 48,13,194,193,0
+C:\Coding\6_Yolov5\dataset\77.jpg 46,14,194,199,1
+C:\Coding\6_Yolov5\dataset\78-with-mask.jpg 103,15,178,116,0
+C:\Coding\6_Yolov5\dataset\79-with-mask.jpg 47,15,194,194,0
+C:\Coding\6_Yolov5\dataset\79.jpg 45,15,191,198,1
+C:\Coding\6_Yolov5\dataset\8-with-mask.jpg 82,55,168,164,0
+C:\Coding\6_Yolov5\dataset\80-with-mask.jpg 34,37,130,176,0
+C:\Coding\6_Yolov5\dataset\80.jpg 33,38,129,180,1
+C:\Coding\6_Yolov5\dataset\81-with-mask.jpg 41,48,164,217,0
+C:\Coding\6_Yolov5\dataset\81.jpg 42,45,164,219,1
+C:\Coding\6_Yolov5\dataset\82-with-mask.jpg 66,47,134,138,0
+C:\Coding\6_Yolov5\dataset\83-with-mask.jpg 69,63,274,332,0
+C:\Coding\6_Yolov5\dataset\83.jpg 71,64,277,333,1
+C:\Coding\6_Yolov5\dataset\84-with-mask.jpg 10,80,166,250,0
+C:\Coding\6_Yolov5\dataset\84.jpg 22,81,168,256,1
+C:\Coding\6_Yolov5\dataset\85-with-mask.jpg 57,110,280,404,0
+C:\Coding\6_Yolov5\dataset\86-with-mask.jpg 66,71,278,345,0
+C:\Coding\6_Yolov5\dataset\86.jpg 65,68,273,351,1
+C:\Coding\6_Yolov5\dataset\87.jpg 95,26,171,128,1
+C:\Coding\6_Yolov5\dataset\88-with-mask.jpg 76,1,223,161,0
+C:\Coding\6_Yolov5\dataset\88.jpg 77,1,222,164,1
+C:\Coding\6_Yolov5\dataset\89-with-mask.jpg 119,222,429,543,0
+C:\Coding\6_Yolov5\dataset\89.jpg 131,223,439,550,1
+C:\Coding\6_Yolov5\dataset\9-with-mask.jpg 107,37,286,286,0
+C:\Coding\6_Yolov5\dataset\9.jpg 35,59,159,238,1
+C:\Coding\6_Yolov5\dataset\90.jpg 62,79,255,357,1
+C:\Coding\6_Yolov5\dataset\91-with-mask.jpg 85,45,165,167,0
+C:\Coding\6_Yolov5\dataset\91.jpg 83,42,166,170,1
+C:\Coding\6_Yolov5\dataset\92-with-mask.jpg 68,153,279,404,0
+C:\Coding\6_Yolov5\dataset\92.jpg 79,146,282,405,1
+C:\Coding\6_Yolov5\dataset\93-with-mask.jpg 9,79,180,314,0
+C:\Coding\6_Yolov5\dataset\93.jpg 5,83,187,319,1
+C:\Coding\6_Yolov5\dataset\94-with-mask.jpg 74,49,152,154,0
+C:\Coding\6_Yolov5\dataset\94.jpg 74,46,153,150,1
+C:\Coding\6_Yolov5\dataset\95.jpg 59,104,262,372,1
+C:\Coding\6_Yolov5\dataset\96-with-mask.jpg 60,27,171,197,0
+C:\Coding\6_Yolov5\dataset\96.jpg 63,27,173,195,1
+C:\Coding\6_Yolov5\dataset\97-with-mask.jpg 70,89,267,345,0
+C:\Coding\6_Yolov5\dataset\97.jpg 72,90,268,348,1
+C:\Coding\6_Yolov5\dataset\98-with-mask.jpg 84,136,302,411,0
+C:\Coding\6_Yolov5\dataset\98.jpg 84,144,305,418,1
+C:\Coding\6_Yolov5\dataset\99-with-mask.jpg 57,59,255,352,0
+C:\Coding\6_Yolov5\dataset\99.jpg 56,60,260,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_0.jpg 45,94,272,362,0
+C:\Coding\6_Yolov5\dataset\augmented_image_1 (2).jpg 137,118,296,283,1
+C:\Coding\6_Yolov5\dataset\augmented_image_1.jpg 55,79,269,360,0
+C:\Coding\6_Yolov5\dataset\augmented_image_10.jpg 65,119,279,367,0
+C:\Coding\6_Yolov5\dataset\augmented_image_100 (2).jpg 77,71,272,335,1
+C:\Coding\6_Yolov5\dataset\augmented_image_100.jpg 56,44,152,191,0
+C:\Coding\6_Yolov5\dataset\augmented_image_101 (2).jpg 70,63,277,335,1
+C:\Coding\6_Yolov5\dataset\augmented_image_101.jpg 45,97,290,387,0
+C:\Coding\6_Yolov5\dataset\augmented_image_102.jpg 44,95,274,384,0
+C:\Coding\6_Yolov5\dataset\augmented_image_103 (2).jpg 70,64,274,335,1
+C:\Coding\6_Yolov5\dataset\augmented_image_103.jpg 52,90,303,392,0
+C:\Coding\6_Yolov5\dataset\augmented_image_104.jpg 40,96,276,385,0
+C:\Coding\6_Yolov5\dataset\augmented_image_105 (2).jpg 74,22,191,176,1
+C:\Coding\6_Yolov5\dataset\augmented_image_105.jpg 53,89,295,388,0
+C:\Coding\6_Yolov5\dataset\augmented_image_106 (2).jpg 76,26,193,177,1
+C:\Coding\6_Yolov5\dataset\augmented_image_106.jpg 81,57,275,329,0
+C:\Coding\6_Yolov5\dataset\augmented_image_107 (2).jpg 75,20,192,178,1
+C:\Coding\6_Yolov5\dataset\augmented_image_107.jpg 72,48,272,328,0
+C:\Coding\6_Yolov5\dataset\augmented_image_108.jpg 49,70,149,209,0
+C:\Coding\6_Yolov5\dataset\augmented_image_109 (2).jpg 67,88,281,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_109.jpg 49,72,157,207,0
+C:\Coding\6_Yolov5\dataset\augmented_image_11.jpg 55,64,134,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_110.jpg 50,71,152,208,0
+C:\Coding\6_Yolov5\dataset\augmented_image_112 (2).jpg 43,81,240,364,1
+C:\Coding\6_Yolov5\dataset\augmented_image_112.jpg 49,68,148,209,0
+C:\Coding\6_Yolov5\dataset\augmented_image_113 (2).jpg 73,85,274,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_113.jpg 80,1,222,160,0
+C:\Coding\6_Yolov5\dataset\augmented_image_114 (2).jpg 76,84,273,366,1
+C:\Coding\6_Yolov5\dataset\augmented_image_114.jpg 81,0,221,160,0
+C:\Coding\6_Yolov5\dataset\augmented_image_115 (2).jpg 81,85,277,367,1
+C:\Coding\6_Yolov5\dataset\augmented_image_115.jpg 80,0,220,160,0
+C:\Coding\6_Yolov5\dataset\augmented_image_116 (2).jpg 75,115,251,366,1
+C:\Coding\6_Yolov5\dataset\augmented_image_116.jpg 80,1,222,161,0
+C:\Coding\6_Yolov5\dataset\augmented_image_117 (2).jpg 73,109,254,364,1
+C:\Coding\6_Yolov5\dataset\augmented_image_117.jpg 70,78,268,364,0
+C:\Coding\6_Yolov5\dataset\augmented_image_118 (2).jpg 69,113,246,366,1
+C:\Coding\6_Yolov5\dataset\augmented_image_118.jpg 74,77,267,364,0
+C:\Coding\6_Yolov5\dataset\augmented_image_119 (2).jpg 73,115,254,363,1
+C:\Coding\6_Yolov5\dataset\augmented_image_119.jpg 74,74,272,362,0
+C:\Coding\6_Yolov5\dataset\augmented_image_12 (2).jpg 58,60,139,170,1
+C:\Coding\6_Yolov5\dataset\augmented_image_12.jpg 51,63,127,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_120 (2).jpg 75,113,253,363,1
+C:\Coding\6_Yolov5\dataset\augmented_image_120.jpg 46,78,249,360,0
+C:\Coding\6_Yolov5\dataset\augmented_image_121 (2).jpg 60,99,256,360,1
+C:\Coding\6_Yolov5\dataset\augmented_image_121.jpg 70,79,269,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_122 (2).jpg 64,104,262,359,1
+C:\Coding\6_Yolov5\dataset\augmented_image_122.jpg 79,117,256,343,0
+C:\Coding\6_Yolov5\dataset\augmented_image_123 (2).jpg 61,99,261,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_123.jpg 80,116,260,342,0
+C:\Coding\6_Yolov5\dataset\augmented_image_124 (2).jpg 63,104,261,356,1
+C:\Coding\6_Yolov5\dataset\augmented_image_124.jpg 48,78,253,347,0
+C:\Coding\6_Yolov5\dataset\augmented_image_125 (2).jpg 51,94,251,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_125.jpg 55,77,246,348,0
+C:\Coding\6_Yolov5\dataset\augmented_image_126 (2).jpg 52,98,250,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_126.jpg 74,69,266,347,0
+C:\Coding\6_Yolov5\dataset\augmented_image_127 (2).jpg 55,95,251,364,1
+C:\Coding\6_Yolov5\dataset\augmented_image_127.jpg 71,74,264,346,0
+C:\Coding\6_Yolov5\dataset\augmented_image_128 (2).jpg 74,98,265,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_129 (2).jpg 60,100,247,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_129.jpg 321,126,589,474,0
+C:\Coding\6_Yolov5\dataset\augmented_image_13 (2).jpg 52,104,249,368,1
+C:\Coding\6_Yolov5\dataset\augmented_image_13.jpg 49,59,126,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_130 (2).jpg 73,90,264,363,1
+C:\Coding\6_Yolov5\dataset\augmented_image_130.jpg 296,124,613,470,0
+C:\Coding\6_Yolov5\dataset\augmented_image_131 (2).jpg 77,90,261,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_131.jpg 359,132,643,471,0
+C:\Coding\6_Yolov5\dataset\augmented_image_132 (2).jpg 75,98,264,366,1
+C:\Coding\6_Yolov5\dataset\augmented_image_132.jpg 389,134,653,478,0
+C:\Coding\6_Yolov5\dataset\augmented_image_133 (2).jpg 195,115,383,368,1
+C:\Coding\6_Yolov5\dataset\augmented_image_133.jpg 37,74,269,369,0
+C:\Coding\6_Yolov5\dataset\augmented_image_134.jpg 64,86,258,368,0
+C:\Coding\6_Yolov5\dataset\augmented_image_135 (2).jpg 162,126,362,372,1
+C:\Coding\6_Yolov5\dataset\augmented_image_135.jpg 59,74,252,369,0
+C:\Coding\6_Yolov5\dataset\augmented_image_136 (2).jpg 196,119,384,374,1
+C:\Coding\6_Yolov5\dataset\augmented_image_137 (2).jpg 44,91,232,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_137.jpg 63,43,359,338,0
+C:\Coding\6_Yolov5\dataset\augmented_image_138 (2).jpg 47,96,232,367,1
+C:\Coding\6_Yolov5\dataset\augmented_image_138.jpg 80,34,356,331,0
+C:\Coding\6_Yolov5\dataset\augmented_image_139 (2).jpg 71,114,275,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_139.jpg 80,20,358,326,0
+C:\Coding\6_Yolov5\dataset\augmented_image_14 (2).jpg 75,109,266,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_14.jpg 81,26,171,144,0
+C:\Coding\6_Yolov5\dataset\augmented_image_140.jpg 73,31,357,328,0
+C:\Coding\6_Yolov5\dataset\augmented_image_140 (2).jpg 86,90,279,362,1
+C:\Coding\6_Yolov5\dataset\augmented_image_141 (2).jpg 90,91,272,362,1
+C:\Coding\6_Yolov5\dataset\augmented_image_141.jpg 0,75,105,194,0
+C:\Coding\6_Yolov5\dataset\augmented_image_142 (2).jpg 41,116,228,321,1
+C:\Coding\6_Yolov5\dataset\augmented_image_142.jpg 7,70,110,196,0
+C:\Coding\6_Yolov5\dataset\augmented_image_143.jpg 79,91,272,343,0
+C:\Coding\6_Yolov5\dataset\augmented_image_144.jpg 63,90,269,353,0
+C:\Coding\6_Yolov5\dataset\augmented_image_145.jpg 81,90,276,342,0
+C:\Coding\6_Yolov5\dataset\augmented_image_146.jpg 73,48,152,154,0
+C:\Coding\6_Yolov5\dataset\augmented_image_147 (2).jpg 99,81,226,232,1
+C:\Coding\6_Yolov5\dataset\augmented_image_147.jpg 74,46,154,154,0
+C:\Coding\6_Yolov5\dataset\augmented_image_148 (2).jpg 95,65,225,210,1
+C:\Coding\6_Yolov5\dataset\augmented_image_148.jpg 85,51,165,152,0
+C:\Coding\6_Yolov5\dataset\augmented_image_149 (2).jpg 101,76,226,231,1
+C:\Coding\6_Yolov5\dataset\augmented_image_149.jpg 64,53,153,158,0
+C:\Coding\6_Yolov5\dataset\augmented_image_15.jpg 82,24,170,143,0
+C:\Coding\6_Yolov5\dataset\augmented_image_150 (2).jpg 80,54,134,104,1
+C:\Coding\6_Yolov5\dataset\augmented_image_150.jpg 39,58,138,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_151 (2).jpg 76,57,122,103,1
+C:\Coding\6_Yolov5\dataset\augmented_image_151.jpg 37,72,130,167,0
+C:\Coding\6_Yolov5\dataset\augmented_image_152.jpg 74,61,173,170,0
+C:\Coding\6_Yolov5\dataset\augmented_image_153 (2).jpg 57,90,256,375,1
+C:\Coding\6_Yolov5\dataset\augmented_image_153.jpg 37,56,131,170,0
+C:\Coding\6_Yolov5\dataset\augmented_image_154 (2).jpg 57,89,257,377,1
+C:\Coding\6_Yolov5\dataset\augmented_image_154.jpg 36,70,131,169,0
+C:\Coding\6_Yolov5\dataset\augmented_image_155 (2).jpg 68,82,264,339,1
+C:\Coding\6_Yolov5\dataset\augmented_image_155.jpg 247,190,629,695,0
+C:\Coding\6_Yolov5\dataset\augmented_image_156.jpg 249,189,628,693,0
+C:\Coding\6_Yolov5\dataset\augmented_image_157 (2).jpg 55,92,252,343,1
+C:\Coding\6_Yolov5\dataset\augmented_image_158 (2).jpg 59,107,250,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_158.jpg 179,193,629,720,0
+C:\Coding\6_Yolov5\dataset\augmented_image_159.jpg 46,114,297,408,0
+C:\Coding\6_Yolov5\dataset\augmented_image_16 (2).jpg 73,94,294,387,1
+C:\Coding\6_Yolov5\dataset\augmented_image_16.jpg 91,28,177,143,0
+C:\Coding\6_Yolov5\dataset\augmented_image_160 (2).jpg 55,103,255,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_160.jpg 20,115,278,424,0
+C:\Coding\6_Yolov5\dataset\augmented_image_161 (2).jpg 53,105,254,360,1
+C:\Coding\6_Yolov5\dataset\augmented_image_161.jpg 6,112,253,410,0
+C:\Coding\6_Yolov5\dataset\augmented_image_162 (2).jpg 42,89,247,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_162.jpg 6,105,254,409,0
+C:\Coding\6_Yolov5\dataset\augmented_image_163 (2).jpg 72,95,280,356,1
+C:\Coding\6_Yolov5\dataset\augmented_image_163.jpg 45,72,236,272,0
+C:\Coding\6_Yolov5\dataset\augmented_image_164 (2).jpg 72,98,277,358,1
+C:\Coding\6_Yolov5\dataset\augmented_image_166 (2).jpg 109,79,247,235,1
+C:\Coding\6_Yolov5\dataset\augmented_image_166.jpg 45,74,255,278,0
+C:\Coding\6_Yolov5\dataset\augmented_image_167.jpg 51,86,263,362,0
+C:\Coding\6_Yolov5\dataset\augmented_image_168 (2).jpg 63,77,199,237,1
+C:\Coding\6_Yolov5\dataset\augmented_image_168.jpg 54,82,271,360,0
+C:\Coding\6_Yolov5\dataset\augmented_image_169 (2).jpg 110,80,246,234,1
+C:\Coding\6_Yolov5\dataset\augmented_image_169.jpg 317,123,598,474,0
+C:\Coding\6_Yolov5\dataset\augmented_image_17 (2).jpg 82,100,289,395,1
+C:\Coding\6_Yolov5\dataset\augmented_image_17.jpg 79,25,171,142,0
+C:\Coding\6_Yolov5\dataset\augmented_image_170 (2).jpg 61,100,252,352,1
+C:\Coding\6_Yolov5\dataset\augmented_image_170.jpg 429,138,692,503,0
+C:\Coding\6_Yolov5\dataset\augmented_image_171 (2).jpg 69,99,258,350,1
+C:\Coding\6_Yolov5\dataset\augmented_image_171.jpg 320,126,600,473,0
+C:\Coding\6_Yolov5\dataset\augmented_image_172 (2).jpg 69,99,259,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_172.jpg 56,108,269,371,0
+C:\Coding\6_Yolov5\dataset\augmented_image_173 (2).jpg 62,94,253,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_173.jpg 35,93,252,368,0
+C:\Coding\6_Yolov5\dataset\augmented_image_174 (2).jpg 43,103,240,354,1
+C:\Coding\6_Yolov5\dataset\augmented_image_174.jpg 40,50,137,176,0
+C:\Coding\6_Yolov5\dataset\augmented_image_175 (2).jpg 79,108,275,354,1
+C:\Coding\6_Yolov5\dataset\augmented_image_175.jpg 36,50,149,171,0
+C:\Coding\6_Yolov5\dataset\augmented_image_176 (2).jpg 81,109,277,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_176.jpg 36,52,145,174,0
+C:\Coding\6_Yolov5\dataset\augmented_image_177 (2).jpg 15,1,480,423,1
+C:\Coding\6_Yolov5\dataset\augmented_image_177.jpg 40,55,141,175,0
+C:\Coding\6_Yolov5\dataset\augmented_image_178 (2).jpg 291,2,768,424,1
+C:\Coding\6_Yolov5\dataset\augmented_image_178.jpg 39,53,139,177,0
+C:\Coding\6_Yolov5\dataset\augmented_image_179 (2).jpg 9,1,479,428,1
+C:\Coding\6_Yolov5\dataset\augmented_image_179.jpg 54,91,258,356,0
+C:\Coding\6_Yolov5\dataset\augmented_image_18 (2).jpg 80,104,287,393,1
+C:\Coding\6_Yolov5\dataset\augmented_image_18.jpg 115,94,274,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_180 (2).jpg 10,6,484,430,1
+C:\Coding\6_Yolov5\dataset\augmented_image_180.jpg 44,86,269,354,0
+C:\Coding\6_Yolov5\dataset\augmented_image_181 (2).jpg 0,0,483,437,1
+C:\Coding\6_Yolov5\dataset\augmented_image_181.jpg 81,32,145,133,0
+C:\Coding\6_Yolov5\dataset\augmented_image_182 (2).jpg 36,52,171,192,1
+C:\Coding\6_Yolov5\dataset\augmented_image_182.jpg 82,33,144,132,0
+C:\Coding\6_Yolov5\dataset\augmented_image_183 (2).jpg 35,62,170,192,1
+C:\Coding\6_Yolov5\dataset\augmented_image_183.jpg 86,32,148,133,0
+C:\Coding\6_Yolov5\dataset\augmented_image_184 (2).jpg 64,66,245,329,1
+C:\Coding\6_Yolov5\dataset\augmented_image_184.jpg 80,32,144,133,0
+C:\Coding\6_Yolov5\dataset\augmented_image_185 (2).jpg 66,63,248,327,1
+C:\Coding\6_Yolov5\dataset\augmented_image_185.jpg 69,85,258,343,0
+C:\Coding\6_Yolov5\dataset\augmented_image_186 (2).jpg 65,66,240,330,1
+C:\Coding\6_Yolov5\dataset\augmented_image_186.jpg 70,86,257,344,0
+C:\Coding\6_Yolov5\dataset\augmented_image_187 (2).jpg 37,80,252,360,1
+C:\Coding\6_Yolov5\dataset\augmented_image_187.jpg 360,128,639,474,0
+C:\Coding\6_Yolov5\dataset\augmented_image_188 (2).jpg 70,84,279,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_188.jpg 362,132,642,475,0
+C:\Coding\6_Yolov5\dataset\augmented_image_189 (2).jpg 38,76,253,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_189.jpg 90,100,237,246,0
+C:\Coding\6_Yolov5\dataset\augmented_image_19 (2).jpg 34,105,240,393,1
+C:\Coding\6_Yolov5\dataset\augmented_image_19.jpg 78,93,236,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_190.jpg 121,91,252,241,0
+C:\Coding\6_Yolov5\dataset\augmented_image_191 (2).jpg 60,141,265,374,1
+C:\Coding\6_Yolov5\dataset\augmented_image_191.jpg 32,41,129,179,0
+C:\Coding\6_Yolov5\dataset\augmented_image_192 (2).jpg 76,145,268,378,1
+C:\Coding\6_Yolov5\dataset\augmented_image_192.jpg 33,37,129,176,0
+C:\Coding\6_Yolov5\dataset\augmented_image_193 (2).jpg 50,142,251,377,1
+C:\Coding\6_Yolov5\dataset\augmented_image_193.jpg 30,44,142,180,0
+C:\Coding\6_Yolov5\dataset\augmented_image_194 (2).jpg 56,147,242,377,1
+C:\Coding\6_Yolov5\dataset\augmented_image_194.jpg 30,40,129,176,0
+C:\Coding\6_Yolov5\dataset\augmented_image_195.jpg 31,27,150,198,0
+C:\Coding\6_Yolov5\dataset\augmented_image_196 (2).jpg 32,42,158,233,1
+C:\Coding\6_Yolov5\dataset\augmented_image_196.jpg 12,29,151,200,0
+C:\Coding\6_Yolov5\dataset\augmented_image_197 (2).jpg 32,41,157,234,1
+C:\Coding\6_Yolov5\dataset\augmented_image_197.jpg 78,95,236,284,0
+C:\Coding\6_Yolov5\dataset\augmented_image_198 (2).jpg 33,45,163,233,1
+C:\Coding\6_Yolov5\dataset\augmented_image_198.jpg 54,113,242,299,0
+C:\Coding\6_Yolov5\dataset\augmented_image_199 (2).jpg 32,43,159,231,1
+C:\Coding\6_Yolov5\dataset\augmented_image_199.jpg 75,92,235,282,0
+C:\Coding\6_Yolov5\dataset\augmented_image_2 (2).jpg 118,125,272,279,1
+C:\Coding\6_Yolov5\dataset\augmented_image_2.jpg 73,66,165,172,0
+C:\Coding\6_Yolov5\dataset\augmented_image_20 (2).jpg 36,106,241,392,1
+C:\Coding\6_Yolov5\dataset\augmented_image_20.jpg 76,86,234,284,0
+C:\Coding\6_Yolov5\dataset\augmented_image_200 (2).jpg 60,99,317,440,1
+C:\Coding\6_Yolov5\dataset\augmented_image_200.jpg 48,121,242,305,0
+C:\Coding\6_Yolov5\dataset\augmented_image_201 (2).jpg 61,105,313,446,1
+C:\Coding\6_Yolov5\dataset\augmented_image_201.jpg 75,97,234,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_202 (2).jpg 153,67,350,303,1
+C:\Coding\6_Yolov5\dataset\augmented_image_202.jpg 53,77,260,349,0
+C:\Coding\6_Yolov5\dataset\augmented_image_203 (2).jpg 148,62,353,299,1
+C:\Coding\6_Yolov5\dataset\augmented_image_203.jpg 57,73,268,351,0
+C:\Coding\6_Yolov5\dataset\augmented_image_204 (2).jpg 132,67,329,305,1
+C:\Coding\6_Yolov5\dataset\augmented_image_204.jpg 61,74,264,351,0
+C:\Coding\6_Yolov5\dataset\augmented_image_205 (2).jpg 157,70,351,302,1
+C:\Coding\6_Yolov5\dataset\augmented_image_205.jpg 72,89,260,375,0
+C:\Coding\6_Yolov5\dataset\augmented_image_206 (2).jpg 67,30,187,188,1
+C:\Coding\6_Yolov5\dataset\augmented_image_206.jpg 74,88,259,374,0
+C:\Coding\6_Yolov5\dataset\augmented_image_207 (2).jpg 66,32,188,188,1
+C:\Coding\6_Yolov5\dataset\augmented_image_207.jpg 53,99,249,371,0
+C:\Coding\6_Yolov5\dataset\augmented_image_208 (2).jpg 63,32,183,189,1
+C:\Coding\6_Yolov5\dataset\augmented_image_208.jpg 68,98,260,372,0
+C:\Coding\6_Yolov5\dataset\augmented_image_209 (2).jpg 62,30,183,188,1
+C:\Coding\6_Yolov5\dataset\augmented_image_209.jpg 58,87,208,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_21 (2).jpg 48,24,122,122,1
+C:\Coding\6_Yolov5\dataset\augmented_image_21.jpg 74,90,236,281,0
+C:\Coding\6_Yolov5\dataset\augmented_image_210 (2).jpg 54,36,192,182,1
+C:\Coding\6_Yolov5\dataset\augmented_image_210.jpg 54,93,209,284,0
+C:\Coding\6_Yolov5\dataset\augmented_image_211 (2).jpg 84,72,226,280,1
+C:\Coding\6_Yolov5\dataset\augmented_image_211.jpg 58,88,207,286,0
+C:\Coding\6_Yolov5\dataset\augmented_image_212.jpg 80,89,234,284,0
+C:\Coding\6_Yolov5\dataset\augmented_image_213.jpg 135,183,352,443,0
+C:\Coding\6_Yolov5\dataset\augmented_image_214 (2).jpg 99,81,225,228,1
+C:\Coding\6_Yolov5\dataset\augmented_image_214.jpg 172,180,365,443,0
+C:\Coding\6_Yolov5\dataset\augmented_image_215 (2).jpg 105,88,226,245,1
+C:\Coding\6_Yolov5\dataset\augmented_image_215.jpg 72,85,265,346,0
+C:\Coding\6_Yolov5\dataset\augmented_image_216 (2).jpg 99,80,225,231,1
+C:\Coding\6_Yolov5\dataset\augmented_image_216.jpg 55,86,251,348,0
+C:\Coding\6_Yolov5\dataset\augmented_image_217.jpg 183,55,313,234,0
+C:\Coding\6_Yolov5\dataset\augmented_image_218.jpg 181,56,311,232,0
+C:\Coding\6_Yolov5\dataset\augmented_image_219 (2).jpg 55,97,243,353,1
+C:\Coding\6_Yolov5\dataset\augmented_image_219.jpg 185,54,310,233,0
+C:\Coding\6_Yolov5\dataset\augmented_image_22 (2).jpg 49,22,121,124,1
+C:\Coding\6_Yolov5\dataset\augmented_image_22.jpg 167,95,320,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_220 (2).jpg 63,88,272,348,1
+C:\Coding\6_Yolov5\dataset\augmented_image_220.jpg 179,60,311,231,0
+C:\Coding\6_Yolov5\dataset\augmented_image_221 (2).jpg 78,95,263,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_221.jpg 65,94,238,346,0
+C:\Coding\6_Yolov5\dataset\augmented_image_222 (2).jpg 64,92,274,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_222.jpg 61,103,250,345,0
+C:\Coding\6_Yolov5\dataset\augmented_image_223 (2).jpg 75,97,264,356,1
+C:\Coding\6_Yolov5\dataset\augmented_image_223.jpg 65,100,248,346,0
+C:\Coding\6_Yolov5\dataset\augmented_image_224.jpg 64,77,259,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_225.jpg 61,86,264,356,1
+C:\Coding\6_Yolov5\dataset\augmented_image_226.jpg 61,82,259,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_227 (2).jpg 64,78,257,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_227.jpg 70,116,280,367,0
+C:\Coding\6_Yolov5\dataset\augmented_image_228.jpg 61,93,253,350,0
+C:\Coding\6_Yolov5\dataset\augmented_image_229.jpg 65,83,257,371,1
+C:\Coding\6_Yolov5\dataset\augmented_image_23 (2).jpg 44,20,119,123,1
+C:\Coding\6_Yolov5\dataset\augmented_image_23.jpg 76,100,238,279,0
+C:\Coding\6_Yolov5\dataset\augmented_image_230 (2).jpg 66,80,259,373,1
+C:\Coding\6_Yolov5\dataset\augmented_image_230.jpg 70,99,258,348,0
+C:\Coding\6_Yolov5\dataset\augmented_image_231.jpg 67,82,260,373,1
+C:\Coding\6_Yolov5\dataset\augmented_image_232 (2).jpg 38,74,257,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_232.jpg 34,10,177,200,0
+C:\Coding\6_Yolov5\dataset\augmented_image_233.jpg 72,127,271,368,1
+C:\Coding\6_Yolov5\dataset\augmented_image_234 (2).jpg 61,136,257,377,1
+C:\Coding\6_Yolov5\dataset\augmented_image_234.jpg 34,4,172,201,0
+C:\Coding\6_Yolov5\dataset\augmented_image_235 (2).jpg 60,74,262,388,1
+C:\Coding\6_Yolov5\dataset\augmented_image_235.jpg 62,95,264,363,0
+C:\Coding\6_Yolov5\dataset\augmented_image_236 (2).jpg 59,82,258,387,1
+C:\Coding\6_Yolov5\dataset\augmented_image_236.jpg 62,99,261,362,0
+C:\Coding\6_Yolov5\dataset\augmented_image_237 (2).jpg 23,49,166,253,1
+C:\Coding\6_Yolov5\dataset\augmented_image_237.jpg 60,104,263,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_238 (2).jpg 24,47,166,252,1
+C:\Coding\6_Yolov5\dataset\augmented_image_238.jpg 253,61,357,203,0
+C:\Coding\6_Yolov5\dataset\augmented_image_239 (2).jpg 56,91,257,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_239.jpg 164,56,274,202,0
+C:\Coding\6_Yolov5\dataset\augmented_image_24.jpg 164,95,319,281,0
+C:\Coding\6_Yolov5\dataset\augmented_image_240 (2).jpg 44,87,254,360,1
+C:\Coding\6_Yolov5\dataset\augmented_image_240.jpg 163,49,272,201,0
+C:\Coding\6_Yolov5\dataset\augmented_image_241.jpg 62,83,262,363,1
+C:\Coding\6_Yolov5\dataset\augmented_image_242.jpg 43,108,297,408,0
+C:\Coding\6_Yolov5\dataset\augmented_image_243 (2).jpg 65,84,263,359,1
+C:\Coding\6_Yolov5\dataset\augmented_image_243.jpg 19,106,275,424,0
+C:\Coding\6_Yolov5\dataset\augmented_image_244 (2).jpg 71,127,279,368,1
+C:\Coding\6_Yolov5\dataset\augmented_image_244.jpg 4,109,250,405,0
+C:\Coding\6_Yolov5\dataset\augmented_image_245 (2).jpg 44,130,252,368,1
+C:\Coding\6_Yolov5\dataset\augmented_image_245.jpg 57,77,263,357,0
+C:\Coding\6_Yolov5\dataset\augmented_image_246 (2).jpg 45,132,253,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_246.jpg 55,85,268,356,0
+C:\Coding\6_Yolov5\dataset\augmented_image_247.jpg 70,52,156,155,0
+C:\Coding\6_Yolov5\dataset\augmented_image_249.jpg 68,83,280,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_25 (2).jpg 42,26,117,124,1
+C:\Coding\6_Yolov5\dataset\augmented_image_25.jpg 166,98,319,283,0
+C:\Coding\6_Yolov5\dataset\augmented_image_250.jpg 80,68,177,183,1
+C:\Coding\6_Yolov5\dataset\augmented_image_251 (2).jpg 47,66,145,183,1
+C:\Coding\6_Yolov5\dataset\augmented_image_251.jpg 48,49,124,147,0
+C:\Coding\6_Yolov5\dataset\augmented_image_252 (2).jpg 47,71,142,184,1
+C:\Coding\6_Yolov5\dataset\augmented_image_252.jpg 321,146,605,519,0
+C:\Coding\6_Yolov5\dataset\augmented_image_253.jpg 47,57,189,218,1
+C:\Coding\6_Yolov5\dataset\augmented_image_254 (2).jpg 45,64,191,222,1
+C:\Coding\6_Yolov5\dataset\augmented_image_254.jpg 217,164,488,535,0
+C:\Coding\6_Yolov5\dataset\augmented_image_255.jpg 43,56,189,221,1
+C:\Coding\6_Yolov5\dataset\augmented_image_256 (2).jpg 46,59,188,223,1
+C:\Coding\6_Yolov5\dataset\augmented_image_256.jpg 314,154,581,535,0
+C:\Coding\6_Yolov5\dataset\augmented_image_257 (2).jpg 176,149,313,346,1
+C:\Coding\6_Yolov5\dataset\augmented_image_257.jpg 116,43,260,223,0
+C:\Coding\6_Yolov5\dataset\augmented_image_258 (2).jpg 176,149,314,349,1
+C:\Coding\6_Yolov5\dataset\augmented_image_258.jpg 86,36,221,213,0
+C:\Coding\6_Yolov5\dataset\augmented_image_26.jpg 66,48,217,227,0
+C:\Coding\6_Yolov5\dataset\augmented_image_260.jpg 49,57,174,241,1
+C:\Coding\6_Yolov5\dataset\augmented_image_261.jpg 43,103,238,344,0
+C:\Coding\6_Yolov5\dataset\augmented_image_262 (2).jpg 46,58,173,240,1
+C:\Coding\6_Yolov5\dataset\augmented_image_262.jpg 71,81,283,342,0
+C:\Coding\6_Yolov5\dataset\augmented_image_263.jpg 56,48,179,224,1
+C:\Coding\6_Yolov5\dataset\augmented_image_264.jpg 68,34,154,140,0
+C:\Coding\6_Yolov5\dataset\augmented_image_265 (2).jpg 79,60,165,163,1
+C:\Coding\6_Yolov5\dataset\augmented_image_265.jpg 67,33,152,142,0
+C:\Coding\6_Yolov5\dataset\augmented_image_266 (2).jpg 83,60,164,163,1
+C:\Coding\6_Yolov5\dataset\augmented_image_266.jpg 7,39,80,121,0
+C:\Coding\6_Yolov5\dataset\augmented_image_267 (2).jpg 80,61,163,163,1
+C:\Coding\6_Yolov5\dataset\augmented_image_267.jpg 35,29,107,121,0
+C:\Coding\6_Yolov5\dataset\augmented_image_268.jpg 6,39,86,128,0
+C:\Coding\6_Yolov5\dataset\augmented_image_269.jpg 75,78,272,349,1
+C:\Coding\6_Yolov5\dataset\augmented_image_27 (2).jpg 36,63,143,200,1
+C:\Coding\6_Yolov5\dataset\augmented_image_27.jpg 86,62,226,222,0
+C:\Coding\6_Yolov5\dataset\augmented_image_270 (2).jpg 47,80,243,350,1
+C:\Coding\6_Yolov5\dataset\augmented_image_270.jpg 48,69,144,181,0
+C:\Coding\6_Yolov5\dataset\augmented_image_271.jpg 48,88,241,348,1
+C:\Coding\6_Yolov5\dataset\augmented_image_272.jpg 78,81,269,350,1
+C:\Coding\6_Yolov5\dataset\augmented_image_273 (2).jpg 63,79,257,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_273.jpg 60,95,261,354,0 49,5,79,44,0
+C:\Coding\6_Yolov5\dataset\augmented_image_275.jpg 62,76,264,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_276.jpg 63,80,262,352,1
+C:\Coding\6_Yolov5\dataset\augmented_image_277 (2).jpg 66,92,262,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_277.jpg 185,192,291,333,0
+C:\Coding\6_Yolov5\dataset\augmented_image_278.jpg 58,91,256,364,1
+C:\Coding\6_Yolov5\dataset\augmented_image_279.jpg 63,91,261,366,1
+C:\Coding\6_Yolov5\dataset\augmented_image_28.jpg 75,93,233,282,0
+C:\Coding\6_Yolov5\dataset\augmented_image_280 (2).jpg 63,93,262,363,1
+C:\Coding\6_Yolov5\dataset\augmented_image_280.jpg 183,192,290,334,0
+C:\Coding\6_Yolov5\dataset\augmented_image_281 (2).jpg 57,104,249,373,1
+C:\Coding\6_Yolov5\dataset\augmented_image_281.jpg 61,36,147,151,0
+C:\Coding\6_Yolov5\dataset\prajna.jpg 980,839,2439,2817,0
+C:\Coding\6_Yolov5\dataset\pra3.jpg 2056,1110,3317,3636,0
+C:\Coding\6_Yolov5\dataset\pra2.jpg 1083,725,3100,3330,0
+C:\Coding\6_Yolov5\dataset\pra1.jpg 1527,1095,3090,3685,0
+C:\Coding\6_Yolov5\dataset\augmented_image_99.jpg 58,48,149,193,0
+C:\Coding\6_Yolov5\dataset\augmented_image_99 (2).jpg 86,34,168,143,1
+C:\Coding\6_Yolov5\dataset\augmented_image_98.jpg 54,51,150,192,0
+C:\Coding\6_Yolov5\dataset\augmented_image_98 (2).jpg 84,36,168,144,1
+C:\Coding\6_Yolov5\dataset\augmented_image_97.jpg 16,89,270,364,0
+C:\Coding\6_Yolov5\dataset\augmented_image_97 (2).jpg 56,82,264,355,1
+C:\Coding\6_Yolov5\dataset\augmented_image_96.jpg 26,83,233,363,0
+C:\Coding\6_Yolov5\dataset\augmented_image_96 (2).jpg 51,74,273,349,1
+C:\Coding\6_Yolov5\dataset\augmented_image_95.jpg 61,76,261,359,1
+C:\Coding\6_Yolov5\dataset\augmented_image_94.jpg 0,81,227,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_94 (2).jpg 61,74,257,362,1
+C:\Coding\6_Yolov5\dataset\augmented_image_93.jpg 0,78,224,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_93 (2).jpg 59,73,258,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_92.jpg 62,73,283,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_92 (2).jpg 26,42,134,172,1
+C:\Coding\6_Yolov5\dataset\augmented_image_91.jpg 72,71,272,358,0
+C:\Coding\6_Yolov5\dataset\augmented_image_91 (2).jpg 23,40,143,175,1
+C:\Coding\6_Yolov5\dataset\augmented_image_90.jpg 74,69,272,360,0
+C:\Coding\6_Yolov5\dataset\augmented_image_90 (2).jpg 95,30,169,128,1
+C:\Coding\6_Yolov5\dataset\augmented_image_9.jpg 59,111,252,367,0
+C:\Coding\6_Yolov5\dataset\augmented_image_89.jpg 56,57,278,335,0
+C:\Coding\6_Yolov5\dataset\augmented_image_89 (2).jpg 94,29,169,128,1
+C:\Coding\6_Yolov5\dataset\augmented_image_88.jpg 55,57,276,332,0
+C:\Coding\6_Yolov5\dataset\augmented_image_88 (2).jpg 105,32,181,127,1
+C:\Coding\6_Yolov5\dataset\augmented_image_87.jpg 30,40,165,191,0
+C:\Coding\6_Yolov5\dataset\augmented_image_87 (2).jpg 51,39,132,142,1
+C:\Coding\6_Yolov5\dataset\augmented_image_86.jpg 49,28,172,183,0
+C:\Coding\6_Yolov5\dataset\augmented_image_86 (2).jpg 44,35,121,145,1
+C:\Coding\6_Yolov5\dataset\augmented_image_85.jpg 70,99,267,368,0
+C:\Coding\6_Yolov5\dataset\augmented_image_85 (2).jpg 50,36,132,144,1
+C:\Coding\6_Yolov5\dataset\augmented_image_84.jpg 53,100,250,369,0
+C:\Coding\6_Yolov5\dataset\augmented_image_84 (2).jpg 51,40,131,145,1
+C:\Coding\6_Yolov5\dataset\augmented_image_83.jpg 107,32,217,176,0
+C:\Coding\6_Yolov5\dataset\augmented_image_83 (2).jpg 68,54,160,149,1
+C:\Coding\6_Yolov5\dataset\augmented_image_82.jpg 113,27,215,170,0
+C:\Coding\6_Yolov5\dataset\augmented_image_82 (2).jpg 99,191,415,615,1
+C:\Coding\6_Yolov5\dataset\augmented_image_81.jpg 114,27,215,167,0
+C:\Coding\6_Yolov5\dataset\augmented_image_81 (2).jpg 436,182,771,611,1
+C:\Coding\6_Yolov5\dataset\augmented_image_80.jpg 116,26,212,165,0
+C:\Coding\6_Yolov5\dataset\augmented_image_80 (2).jpg 99,181,420,609,1
+C:\Coding\6_Yolov5\dataset\augmented_image_8.jpg 61,115,254,366,0
+C:\Coding\6_Yolov5\dataset\augmented_image_79.jpg 50,65,129,169,0
+C:\Coding\6_Yolov5\dataset\augmented_image_79 (2).jpg 96,166,430,597,1
+C:\Coding\6_Yolov5\dataset\augmented_image_78.jpg 56,60,137,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_77.jpg 72,73,269,340,0
+C:\Coding\6_Yolov5\dataset\augmented_image_77 (2).jpg 79,79,234,293,1
+C:\Coding\6_Yolov5\dataset\augmented_image_76.jpg 72,69,265,340,0
+C:\Coding\6_Yolov5\dataset\augmented_image_76 (2).jpg 26,80,191,289,1
+C:\Coding\6_Yolov5\dataset\augmented_image_75.jpg 55,73,246,338,0
+C:\Coding\6_Yolov5\dataset\augmented_image_74.jpg 69,39,356,338,0
+C:\Coding\6_Yolov5\dataset\augmented_image_74 (2).jpg 32,73,184,284,1
+C:\Coding\6_Yolov5\dataset\augmented_image_73.jpg 66,31,359,334,0
+C:\Coding\6_Yolov5\dataset\augmented_image_73 (2).jpg 63,100,268,362,1
+C:\Coding\6_Yolov5\dataset\augmented_image_72.jpg 78,26,358,330,0
+C:\Coding\6_Yolov5\dataset\augmented_image_72 (2).jpg 63,103,269,365,1
+C:\Coding\6_Yolov5\dataset\augmented_image_71.jpg 57,60,235,269,0
+C:\Coding\6_Yolov5\dataset\augmented_image_71 (2).jpg 60,94,269,362,1
+C:\Coding\6_Yolov5\dataset\augmented_image_70.jpg 81,68,255,269,0
+C:\Coding\6_Yolov5\dataset\augmented_image_70 (2).jpg 36,58,117,165,1
+C:\Coding\6_Yolov5\dataset\augmented_image_7.jpg 66,112,262,367,0
+C:\Coding\6_Yolov5\dataset\augmented_image_7 (2).jpg 58,59,202,216,1
+C:\Coding\6_Yolov5\dataset\augmented_image_69.jpg 58,61,235,266,0
+C:\Coding\6_Yolov5\dataset\augmented_image_69 (2).jpg 35,52,115,164,1
+C:\Coding\6_Yolov5\dataset\augmented_image_68.jpg 55,68,235,267,0
+C:\Coding\6_Yolov5\dataset\augmented_image_68 (2).jpg 34,57,116,164,1
+C:\Coding\6_Yolov5\dataset\augmented_image_67.jpg 58,62,235,265,0
+C:\Coding\6_Yolov5\dataset\augmented_image_67 (2).jpg 175,27,341,242,1
+C:\Coding\6_Yolov5\dataset\augmented_image_66.jpg 258,77,371,216,0
+C:\Coding\6_Yolov5\dataset\augmented_image_66 (2).jpg 161,52,336,260,1
+C:\Coding\6_Yolov5\dataset\augmented_image_65.jpg 258,74,373,217,0
+C:\Coding\6_Yolov5\dataset\augmented_image_65 (2).jpg 317,32,485,243,1
+C:\Coding\6_Yolov5\dataset\augmented_image_64.jpg 255,74,371,215,0
+C:\Coding\6_Yolov5\dataset\augmented_image_64 (2).jpg 176,31,343,245,1
+C:\Coding\6_Yolov5\dataset\augmented_image_63.jpg 242,66,372,204,0
+C:\Coding\6_Yolov5\dataset\augmented_image_63 (2).jpg 155,51,338,259,1
+C:\Coding\6_Yolov5\dataset\augmented_image_62.jpg 68,95,257,327,0
+C:\Coding\6_Yolov5\dataset\augmented_image_62 (2).jpg 39,20,189,199,1
+C:\Coding\6_Yolov5\dataset\augmented_image_61.jpg 73,107,284,328,0
+C:\Coding\6_Yolov5\dataset\augmented_image_61 (2).jpg 44,20,193,197,1
+C:\Coding\6_Yolov5\dataset\augmented_image_60.jpg 84,88,277,328,0
+C:\Coding\6_Yolov5\dataset\augmented_image_60 (2).jpg 44,21,193,197,1
+C:\Coding\6_Yolov5\dataset\augmented_image_6.jpg 59,121,255,366,0
+C:\Coding\6_Yolov5\dataset\augmented_image_59.jpg 57,17,176,170,0
+C:\Coding\6_Yolov5\dataset\augmented_image_59 (2).jpg 48,17,199,190,1
+C:\Coding\6_Yolov5\dataset\augmented_image_58.jpg 45,17,168,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_58 (2).jpg 39,20,186,194,1
+C:\Coding\6_Yolov5\dataset\augmented_image_57.jpg 54,13,176,169,0
+C:\Coding\6_Yolov5\dataset\augmented_image_57 (2).jpg 42,80,273,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_56.jpg 43,18,169,177,0
+C:\Coding\6_Yolov5\dataset\augmented_image_56 (2).jpg 55,86,264,358,1
+C:\Coding\6_Yolov5\dataset\augmented_image_55.jpg 50,14,169,174,0
+C:\Coding\6_Yolov5\dataset\augmented_image_55 (2).jpg 55,92,246,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_54.jpg 45,5,191,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_54 (2).jpg 72,91,264,351,1
+C:\Coding\6_Yolov5\dataset\augmented_image_53.jpg 149,13,230,119,0
+C:\Coding\6_Yolov5\dataset\augmented_image_52.jpg 7,35,81,142,0
+C:\Coding\6_Yolov5\dataset\augmented_image_52 (2).jpg 69,95,266,352,1
+C:\Coding\6_Yolov5\dataset\augmented_image_51.jpg 10,15,88,119,0
+C:\Coding\6_Yolov5\dataset\augmented_image_51 (2).jpg 75,97,262,352,1
+C:\Coding\6_Yolov5\dataset\augmented_image_50.jpg 20,104,192,332,0
+C:\Coding\6_Yolov5\dataset\augmented_image_50 (2).jpg 42,59,131,160,1
+C:\Coding\6_Yolov5\dataset\augmented_image_5.jpg 74,69,167,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_5 (2).jpg 87,61,225,214,1
+C:\Coding\6_Yolov5\dataset\augmented_image_49.jpg 9,116,184,335,0
+C:\Coding\6_Yolov5\dataset\augmented_image_48.jpg 26,130,201,343,0
+C:\Coding\6_Yolov5\dataset\augmented_image_48 (2).jpg 82,68,172,170,1
+C:\Coding\6_Yolov5\dataset\augmented_image_47.jpg 75,98,281,386,0
+C:\Coding\6_Yolov5\dataset\augmented_image_45.jpg 71,99,264,369,0
+C:\Coding\6_Yolov5\dataset\augmented_image_45 (2).jpg 47,98,275,410,1
+C:\Coding\6_Yolov5\dataset\augmented_image_44 (2).jpg 43,106,272,411,1
+C:\Coding\6_Yolov5\dataset\augmented_image_43.jpg 71,101,259,370,0
+C:\Coding\6_Yolov5\dataset\augmented_image_43 (2).jpg 16,63,146,243,1
+C:\Coding\6_Yolov5\dataset\augmented_image_42.jpg 46,111,297,408,0
+C:\Coding\6_Yolov5\dataset\augmented_image_42 (2).jpg 49,56,173,240,1
+C:\Coding\6_Yolov5\dataset\augmented_image_41.jpg 9,109,259,407,0
+C:\Coding\6_Yolov5\dataset\augmented_image_41 (2).jpg 45,59,175,241,1
+C:\Coding\6_Yolov5\dataset\augmented_image_40.jpg 0,114,248,401,0
+C:\Coding\6_Yolov5\dataset\augmented_image_40 (2).jpg 38,60,178,243,1
+C:\Coding\6_Yolov5\dataset\augmented_image_4.jpg 75,62,164,170,0
+C:\Coding\6_Yolov5\dataset\augmented_image_4 (2).jpg 67,63,206,213,1
+C:\Coding\6_Yolov5\dataset\augmented_image_39.jpg 0,115,251,404,0
+C:\Coding\6_Yolov5\dataset\augmented_image_39 (2).jpg 50,53,173,240,1
+C:\Coding\6_Yolov5\dataset\augmented_image_38.jpg 68,42,145,127,0
+C:\Coding\6_Yolov5\dataset\augmented_image_38 (2).jpg 78,83,287,372,1
+C:\Coding\6_Yolov5\dataset\augmented_image_37.jpg 47,41,123,125,0
+C:\Coding\6_Yolov5\dataset\augmented_image_282.jpg 53,107,264,370,1
+C:\Coding\6_Yolov5\dataset\augmented_image_283.jpg 69,99,264,378,1
+C:\Coding\6_Yolov5\dataset\augmented_image_284 (2).jpg 24,43,135,172,1
+C:\Coding\6_Yolov5\dataset\augmented_image_284.jpg 61,60,167,168,0
+C:\Coding\6_Yolov5\dataset\augmented_image_285 (2).jpg 25,47,137,172,1
+C:\Coding\6_Yolov5\dataset\augmented_image_285.jpg 64,36,146,151,0
+C:\Coding\6_Yolov5\dataset\augmented_image_286 (2).jpg 23,45,137,173,1
+C:\Coding\6_Yolov5\dataset\augmented_image_286.jpg 49,68,172,220,0
+C:\Coding\6_Yolov5\dataset\augmented_image_287 (2).jpg 23,46,135,176,1
+C:\Coding\6_Yolov5\dataset\augmented_image_287.jpg 19,69,137,219,0
+C:\Coding\6_Yolov5\dataset\augmented_image_288.jpg 48,67,172,220,0
+C:\Coding\6_Yolov5\dataset\augmented_image_289.jpg 51,68,169,219,0
+C:\Coding\6_Yolov5\dataset\augmented_image_29.jpg 115,90,274,282,0
+C:\Coding\6_Yolov5\dataset\augmented_image_290.jpg 66,84,265,378,1
+C:\Coding\6_Yolov5\dataset\augmented_image_291 (2).jpg 70,92,261,378,1
+C:\Coding\6_Yolov5\dataset\augmented_image_291.jpg 73,109,269,372,0
+C:\Coding\6_Yolov5\dataset\augmented_image_292.jpg 49,21,122,121,1
+C:\Coding\6_Yolov5\dataset\augmented_image_295 (2).jpg 154,104,342,371,1
+C:\Coding\6_Yolov5\dataset\augmented_image_295.jpg 42,111,239,370,0
+C:\Coding\6_Yolov5\dataset\augmented_image_296 (2).jpg 138,94,350,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_296.jpg 70,60,162,177,0
+C:\Coding\6_Yolov5\dataset\augmented_image_297.jpg 154,109,350,375,1
+C:\Coding\6_Yolov5\dataset\augmented_image_298.jpg 29,32,164,233,1
+C:\Coding\6_Yolov5\dataset\augmented_image_299 (2).jpg 24,44,175,229,1
+C:\Coding\6_Yolov5\dataset\augmented_image_299.jpg 39,61,149,185,0
+C:\Coding\6_Yolov5\dataset\augmented_image_3 (2).jpg 63,62,205,212,1
+C:\Coding\6_Yolov5\dataset\augmented_image_3.jpg 73,57,168,167,0
+C:\Coding\6_Yolov5\dataset\augmented_image_30 (2).jpg 89,31,182,143,1
+C:\Coding\6_Yolov5\dataset\augmented_image_30.jpg 77,86,238,282,0
+C:\Coding\6_Yolov5\dataset\augmented_image_300.jpg 90,80,232,221,0
+C:\Coding\6_Yolov5\dataset\augmented_image_301.jpg 63,108,313,439,1
+C:\Coding\6_Yolov5\dataset\augmented_image_303 (2).jpg 64,101,314,438,1
+C:\Coding\6_Yolov5\dataset\augmented_image_303.jpg 43,82,174,225,0
+C:\Coding\6_Yolov5\dataset\augmented_image_304.jpg 63,118,250,377,1
+C:\Coding\6_Yolov5\dataset\augmented_image_305.jpg 33,92,232,362,0
+C:\Coding\6_Yolov5\dataset\augmented_image_306 (2).jpg 65,91,260,376,1
+C:\Coding\6_Yolov5\dataset\augmented_image_306.jpg 52,47,129,146,0
+C:\Coding\6_Yolov5\dataset\augmented_image_307.jpg 71,40,164,147,1
+C:\Coding\6_Yolov5\dataset\augmented_image_308 (2).jpg 61,39,151,149,1
+C:\Coding\6_Yolov5\dataset\augmented_image_308.jpg 64,48,142,148,0
+C:\Coding\6_Yolov5\dataset\augmented_image_309.jpg 38,80,245,357,1
+C:\Coding\6_Yolov5\dataset\augmented_image_31 (2).jpg 269,174,544,549,1
+C:\Coding\6_Yolov5\dataset\augmented_image_310 (2).jpg 74,77,275,361,1
+C:\Coding\6_Yolov5\dataset\augmented_image_310.jpg 42,44,125,150,0
+C:\Coding\6_Yolov5\dataset\augmented_image_311 (2).jpg 49,92,231,328,1
+C:\Coding\6_Yolov5\dataset\augmented_image_311.jpg 55,107,267,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_312.jpg 50,102,228,329,1
+C:\Coding\6_Yolov5\dataset\augmented_image_314 (2).jpg 49,107,230,330,1
+C:\Coding\6_Yolov5\dataset\augmented_image_314.jpg 51,95,262,361,0
+C:\Coding\6_Yolov5\dataset\augmented_image_315.jpg 165,66,378,337,0
+C:\Coding\6_Yolov5\dataset\augmented_image_316.jpg 70,46,274,328,0
+C:\Coding\6_Yolov5\dataset\augmented_image_32 (2).jpg 313,184,581,564,1
+C:\Coding\6_Yolov5\dataset\augmented_image_32.jpg 95,102,235,241,0
+C:\Coding\6_Yolov5\dataset\augmented_image_33 (2).jpg 198,171,461,561,1
+C:\Coding\6_Yolov5\dataset\augmented_image_33.jpg 95,94,232,241,0
+C:\Coding\6_Yolov5\dataset\augmented_image_34.jpg 66,41,145,127,0
+C:\Coding\6_Yolov5\dataset\augmented_image_35 (2).jpg 215,243,381,431,1
+C:\Coding\6_Yolov5\dataset\augmented_image_35.jpg 70,39,144,126,0
+C:\Coding\6_Yolov5\dataset\augmented_image_36 (2).jpg 218,247,386,438,1
+C:\Coding\6_Yolov5\dataset\augmented_image_36.jpg 66,39,145,127,0
+C:\Coding\6_Yolov5\dataset\augmented_image_37 (2).jpg 70,79,287,362,1
+C:\Coding\6_Yolov5\dataset\covid_alison1.jpg 231,66,396,277,1
+C:\Coding\6_Yolov5\dataset\covid_alison10.jpg 101,26,120,55,1
+C:\Coding\6_Yolov5\dataset\covid_alison11.jpg 436,116,610,379,1
+C:\Coding\6_Yolov5\dataset\covid_alison12.jpg 551,216,800,572,0
+C:\Coding\6_Yolov5\dataset\covid_alison13.jpg 219,70,320,279,0
+C:\Coding\6_Yolov5\dataset\covid_alison14.jpg 477,535,540,627,1 225,231,594,803,0
+C:\Coding\6_Yolov5\dataset\covid_alison15.jpg 137,82,315,327,1
+C:\Coding\6_Yolov5\dataset\covid_alison16.jpg 445,96,763,561,1
+C:\Coding\6_Yolov5\dataset\covid_alison17.jpg 228,78,295,172,1
+C:\Coding\6_Yolov5\dataset\covid_alison18.jpg 295,54,358,156,1 175,57,236,146,1
+C:\Coding\6_Yolov5\dataset\covid_alison19.jpg 338,68,384,126,0 182,52,226,140,0
+C:\Coding\6_Yolov5\dataset\covid_alison2.jpg 243,57,317,169,1
+C:\Coding\6_Yolov5\dataset\covid_alison20.jpg 272,69,414,275,1
+C:\Coding\6_Yolov5\dataset\covid_alison21.jpg 198,74,266,158,1
+C:\Coding\6_Yolov5\dataset\covid_alison22.jpg 205,27,263,121,1
+C:\Coding\6_Yolov5\dataset\covid_alison23.jpg 315,145,530,471,1
+C:\Coding\6_Yolov5\dataset\covid_alison24.jpg 376,115,667,543,1
+C:\Coding\6_Yolov5\dataset\covid_alison25.jpg 446,146,536,286,1
+C:\Coding\6_Yolov5\dataset\covid_alison3.jpg 210,43,277,140,1
+C:\Coding\6_Yolov5\dataset\covid_alison9.jpg 169,44,217,114,1
+C:\Coding\6_Yolov5\dataset\covid_alison8.jpg 1353,229,2034,1179,1
+C:\Coding\6_Yolov5\dataset\covid_alison7.jpg 292,110,766,847,0
+C:\Coding\6_Yolov5\dataset\covid_alison6.jpg 547,191,691,339,0
+C:\Coding\6_Yolov5\dataset\covid_alison5.jpg 564,139,691,320,1
+C:\Coding\6_Yolov5\dataset\covid_alison4.jpg 560,208,701,360,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities1.jpg 291,137,726,790,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities10.jpg 655,206,1112,971,0 1856,158,2094,522,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities11.jpg 108,3,421,374,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities12.jpg 20,113,216,388,0 252,167,414,387,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities13.jpg 269,125,397,328,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities14.jpg 82,148,283,415,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities15.jpg 271,205,579,667,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities16.jpg 411,9,1051,967,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities17.jpg 71,49,270,397,0 295,87,492,404,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities18.jpg 51,95,261,424,0 787,61,900,225,0 370,87,665,504,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities19.jpg 139,2,538,350,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities2.jpg 967,280,1673,1385,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities20.jpg 6,146,182,402,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities21.jpg 489,225,650,463,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities22.jpg 1130,165,1369,451,0 622,150,855,458,0 137,156,355,458,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities23.jpg 171,110,439,484,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities24.jpg 139,93,390,466,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities25.jpg 137,95,337,389,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities26.jpg 293,132,480,463,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities27.jpg 255,301,635,743,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities28.jpg 181,115,335,299,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities29.jpg 170,142,371,372,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities3.jpg 288,113,483,377,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities30.jpg 187,170,494,590,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities31.jpg 128,101,333,393,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities32.jpg 287,90,419,249,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities33.jpg 133,127,392,519,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities34.jpg 118,153,402,466,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities35.jpg 127,111,267,317,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities36.jpg 76,65,249,299,0 404,65,584,299,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities37.jpg 213,153,403,402,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities38.jpg 150,27,186,80,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities39.jpg 156,8,386,326,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities4.jpg 39,22,142,157,1 208,9,307,138,1 457,21,542,146,1 648,22,712,138,1 403,252,493,377,1 622,255,701,366,1 238,235,323,364,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities40.jpg 689,167,1133,793,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities41.jpg 239,39,342,175,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities42.jpg 139,89,313,335,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities43.jpg 162,60,244,195,0 460,56,595,254,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities44.jpg 391,124,629,475,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities45.jpg 547,157,842,550,0 1496,206,1613,353,0 1291,79,1399,233,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities46.jpg 306,67,375,162,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities5.jpg 141,173,445,605,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities6.jpg 127,130,454,576,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities7.jpg 149,40,425,454,0
+C:\Coding\6_Yolov5\dataset\covid_celebrities8.jpg 254,188,489,490,1
+C:\Coding\6_Yolov5\dataset\covid_celebrities9.jpg 1074,461,1439,1141,1
+C:\Coding\6_Yolov5\dataset\covid_denise1.jpg 176,28,326,240,0 37,140,65,175,0
+C:\Coding\6_Yolov5\dataset\covid_denise2.jpg 78,24,136,115,0
+C:\Coding\6_Yolov5\dataset\covid_denise3.jpg 396,179,704,579,1
+C:\Coding\6_Yolov5\dataset\covid_denise4.jpg 270,175,405,368,1
+C:\Coding\6_Yolov5\dataset\covid_denise5.jpg 974,305,1348,832,1 7,2486,160,2762,1
+C:\Coding\6_Yolov5\dataset\story_lena_lenna_1.jpg 218,186,363,391,1
