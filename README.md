@@ -24,12 +24,12 @@ $ git clone https://github.com/chacoff/MaskDetector
 
 you will have to uncompress everything from the *dataset/* folder. You will find there about 8 compressed files which correspond to the images and another compressed file corresponding the annotations already in darknet format. 
 
-I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a toold you can find among my other repositories: https://github.com/chacoff/VoTT-CSV-to-Darknet-Format
+I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a tool you can find among my other repositories: https://github.com/chacoff/VoTT-CSV-to-Darknet-Format
 
 
 **training**
 
-*mask.yaml*, you will find it in *dataset/vott-csv-export/*. It is pointing to *validation.txt* and *training.txt*, pay attention on the address to the images, it will be different on your computer, i guess, the easiest is using notepad++ and replacing my address with yours, or, use my convertion from CSV to darknet.
+*mask.yaml*, you will find it in *dataset/vott-csv-export/*. It is pointing to *validation.txt* and *training.txt*, pay attention on the address to the images, it will be different on your computer, i guess, the easiest is using notepad++ and replacing my address with yours, or, use my convertion from CSV to darknet, but you will need to do some configurations in there anyway.
 
 ```
 $ train.py 
