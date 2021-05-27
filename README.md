@@ -6,13 +6,13 @@ The original repository: https://github.com/ultralytics/yolov5
 ```
 conda activate <env>
 conda install pip
-pip freeze > requirements_ingfisica.txt
+pip freeze > requirements.txt
 ```
 **PIP enviroment**
 ```
 python3 -m venv env
 source env/bin/activate
-pip install -r requirements_ingfisica.txt
+pip install -r requirements.txt
 ```
 
 **git**
