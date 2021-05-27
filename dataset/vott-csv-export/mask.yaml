@@ -1,0 +1,6 @@
+train: dataset/vott-csv-export/training.txt
+val: dataset/vott-csv-export/validation.txt
+nc: 2
+names:
+- Mask
+- No_Mask
