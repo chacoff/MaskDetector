@@ -23,7 +23,11 @@ $ git clone https://github.com/chacoff/MaskDetector
 
 **Train**
 ```
-train.py 
+$ train.py 
+```
+or
+```
+$ python train.py --img 640 --batch 16 --epochs 21 --data dataset/vott-csv-export/mask.yaml --weights yolov5x.pt --nosave --cache
 ```
 
 **Results**
