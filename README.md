@@ -41,8 +41,9 @@ $ python train.py --img 640 --batch 16 --epochs 21 --data dataset/vott-csv-expor
 
 **training results**
 
-<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/results.png' width='510'>
-
+<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/results.png' width='620'>
+<image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/confusion_matrix.png' height='510'>
+  
 **tests**
 
 <image src='https://github.com/chacoff/MaskDetector/blob/main/data/images/covid_test8.jpg' width='420'>
