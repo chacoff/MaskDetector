@@ -25,7 +25,7 @@ $ git clone https://github.com/chacoff/MaskDetector
 
 you will have to uncompress everything from the *dataset/* folder. You will find there about 8 compressed files which correspond to the images and another compressed file corresponding the annotations already in darknet format. 
 
-I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a tool you can find among my other repositories: https://github.com/chacoff/VoTT-CSV-to-Darknet-Format
+I am including as well the annotations in a VoTT CSV format which you could use to convert into darknet format with a tool you can find among my other [repositories](https://github.com/chacoff/VoTT-CSV-to-Darknet-Format).
 
 
 
